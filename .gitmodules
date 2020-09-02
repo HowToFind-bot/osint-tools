@@ -1,0 +1,782 @@
+
+[submodule "Account/Facebook/fb-sleep-stats"]
+	path = Account/Facebook/fb-sleep-stats
+	url = https://github.com/sqren/fb-sleep-stats
+
+[submodule "Other/Leaks/ail-framework"]
+	path = Other/Leaks/ail-framework
+	url = https://github.com/ail-project/ail-framework
+
+[submodule "Other/Leaks/Apple-ID-Data-Leak"]
+	path = Other/Leaks/Apple-ID-Data-Leak
+	url = https://github.com/zaytoun/Apple-ID-Data-Leak
+
+[submodule "Nickname/osint-namecheckers-list"]
+	path = Nickname/osint-namecheckers-list
+	url = https://github.com/soxoj/osint-namecheckers-list
+
+[submodule "Nickname/maigret"]
+	path = Nickname/maigret
+	url = https://github.com/soxoj/maigret
+
+[submodule "Nickname/sherlock"]
+	path = Nickname/sherlock
+	url = https://github.com/sherlock-project/sherlock
+
+[submodule "Nickname/snoop"]
+	path = Nickname/snoop
+	url = https://github.com/snooppr/snoop
+
+[submodule "Nickname/whatsmyname"]
+	path = Nickname/whatsmyname
+	url = https://github.com/webbreacher/whatsmyname
+
+[submodule "Nickname/socialscan"]
+	path = Nickname/socialscan
+	url = https://github.com/iojw/socialscan
+
+[submodule "Email/socialscan"]
+	path = Email/socialscan
+	url = https://github.com/iojw/socialscan
+
+[submodule "Account/Twitter/twint"]
+	path = Account/Twitter/twint
+	url = https://github.com/twintproject/twint
+
+[submodule "Account/VK/VKAnalysis"]
+	path = Account/VK/VKAnalysis
+	url = https://github.com/migalin/VKAnalysis
+
+[submodule "Email/email2phonenumber"]
+	path = Email/email2phonenumber
+	url = https://github.com/martinvigo/email2phonenumber
+
+[submodule "Other/Automation/spiderfoot"]
+	path = Other/Automation/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+
+[submodule "Account/Facebook/socid_extractor"]
+	path = Account/Facebook/socid_extractor
+	url = https://github.com/soxoj/socid_extractor
+
+[submodule "Account/VK/socid_extractor"]
+	path = Account/VK/socid_extractor
+	url = https://github.com/soxoj/socid_extractor
+
+[submodule "Account/Instagram/socid_extractor"]
+	path = Account/Instagram/socid_extractor
+	url = https://github.com/soxoj/socid_extractor
+
+[submodule "Account/Yandex/socid_extractor"]
+	path = Account/Yandex/socid_extractor
+	url = https://github.com/soxoj/socid_extractor
+
+[submodule "Account/Instagram/InstagramOSINT"]
+	path = Account/Instagram/InstagramOSINT
+	url = https://github.com/sc1341/InstagramOSINT
+
+[submodule "Account/LinkedIn/linkedin2username"]
+	path = Account/LinkedIn/linkedin2username
+	url = https://github.com/initstring/linkedin2username
+
+[submodule "Other/Automation/theHarvester"]
+	path = Other/Automation/theHarvester
+	url = https://github.com/laramies/theHarvester
+
+[submodule "Other/Automation/ODIN"]
+	path = Other/Automation/ODIN
+	url = https://github.com/chrismaddalena/ODIN
+
+[submodule "Other/Leaks/Cr3dOv3r"]
+	path = Other/Leaks/Cr3dOv3r
+	url = https://github.com/D4Vinci/Cr3dOv3r
+
+[submodule "Email/Cr3dOv3r"]
+	path = Email/Cr3dOv3r
+	url = https://github.com/D4Vinci/Cr3dOv3r
+
+[submodule "Other/Phishing/Mimir"]
+	path = Other/Phishing/Mimir
+	url = https://github.com/NullArray/Mimir
+
+[submodule "Other/Phishing/WhatsApp-IP-logger"]
+	path = Other/Phishing/WhatsApp-IP-logger
+	url = https://github.com/abhijithvijayan/WhatsApp-IP-logger
+
+[submodule "Other/Phishing/-PHP-Simple-IP-Logger"]
+	path = Other/Phishing/-PHP-Simple-IP-Logger
+	url = https://github.com/Jacckii/-PHP-Simple-IP-Logger
+
+[submodule "Phone/ok_checker"]
+	path = Phone/ok_checker
+	url = https://github.com/shllwrld/ok_checker
+
+[submodule "Email/ok_checker"]
+	path = Email/ok_checker
+	url = https://github.com/shllwrld/ok_checker
+
+[submodule "Account/Telegram/informer"]
+	path = Account/Telegram/informer
+	url = https://github.com/paulpierre/informer
+
+[submodule "Account/Telegram/telegram-osint-lib"]
+	path = Account/Telegram/telegram-osint-lib
+	url = https://github.com/Postuf/telegram-osint-lib
+
+[submodule "Email/gitcolombo"]
+	path = Email/gitcolombo
+	url = https://github.com/soxoj/gitcolombo
+
+[submodule "Other/SourceCode/gitcolombo"]
+	path = Other/SourceCode/gitcolombo
+	url = https://github.com/soxoj/gitcolombo
+
+[submodule "Other/WiFi/apple_bleee"]
+	path = Other/WiFi/apple_bleee
+	url = https://github.com/hexway/apple_bleee
+
+[submodule "Other/Phishing/whosthere"]
+	path = Other/Phishing/whosthere
+	url = https://github.com/shanginn/whosthere
+
+[submodule "Account/Telegram/telegram-bot-dumper"]
+	path = Account/Telegram/telegram-bot-dumper
+	url = https://github.com/soxoj/telegram-bot-dumper
+
+[submodule "Other/Clouds/CloudScraper"]
+	path = Other/Clouds/CloudScraper
+	url = https://github.com/jordanpotti/CloudScraper
+
+[submodule "Account/GitHub/gitrob"]
+	path = Account/GitHub/gitrob
+	url = https://github.com/michenriksen/gitrob
+
+[submodule "Other/SourceCode/gitrob"]
+	path = Other/SourceCode/gitrob
+	url = https://github.com/michenriksen/gitrob
+
+[submodule "Other/Clouds/inSp3ctor"]
+	path = Other/Clouds/inSp3ctor
+	url = https://github.com/brianwarehime/inSp3ctor
+
+[submodule "Other/Clouds/spaces-finder"]
+	path = Other/Clouds/spaces-finder
+	url = https://github.com/appsecco/spaces-finder
+
+[submodule "Other/Clouds/GCPBucketBrute"]
+	path = Other/Clouds/GCPBucketBrute
+	url = https://github.com/RhinoSecurityLabs/GCPBucketBrute
+
+[submodule "Other/Clouds/CloudStorageFinder"]
+	path = Other/Clouds/CloudStorageFinder
+	url = https://github.com/digininja/CloudStorageFinder
+
+[submodule "Account/LinkedIn/LinkedInt"]
+	path = Account/LinkedIn/LinkedInt
+	url = https://github.com/mdsecactivebreach/LinkedInt
+
+[submodule "Other/Leaks/pastebin_scraper"]
+	path = Other/Leaks/pastebin_scraper
+	url = https://github.com/Critical-Start/pastebin_scraper
+
+[submodule "Other/Leaks/pwnbin"]
+	path = Other/Leaks/pwnbin
+	url = https://github.com/kahunalu/pwnbin
+
+[submodule "Other/Leaks/pwnedOrNot"]
+	path = Other/Leaks/pwnedOrNot
+	url = https://github.com/thewhiteh4t/pwnedOrNot
+
+[submodule "Email/pwnedOrNot"]
+	path = Email/pwnedOrNot
+	url = https://github.com/thewhiteh4t/pwnedOrNot
+
+[submodule "Domain/dnstwist"]
+	path = Domain/dnstwist
+	url = https://github.com/elceef/dnstwist
+
+[submodule "Domain/dnsrecon"]
+	path = Domain/dnsrecon
+	url = https://github.com/darkoperator/dnsrecon
+
+[submodule "Other/Leaks/pwndb"]
+	path = Other/Leaks/pwndb
+	url = https://github.com/davidtavarez/pwndb
+
+[submodule "Other/Leaks/FileScan"]
+	path = Other/Leaks/FileScan
+	url = https://github.com/rysh1/FileScan
+
+[submodule "Other/Leaks/h8mail"]
+	path = Other/Leaks/h8mail
+	url = https://github.com/khast3x/h8mail
+
+[submodule "Email/h8mail"]
+	path = Email/h8mail
+	url = https://github.com/khast3x/h8mail
+
+[submodule "Email/WhatBreach"]
+	path = Email/WhatBreach
+	url = https://github.com/Ekultek/WhatBreach
+
+[submodule "Other/Leaks/WhatBreach"]
+	path = Other/Leaks/WhatBreach
+	url = https://github.com/Ekultek/WhatBreach
+
+[submodule "Other/Leaks/leaks_parser"]
+	path = Other/Leaks/leaks_parser
+	url = https://github.com/p3pperp0tts/leaks_parser
+
+[submodule "Domain/censys-subdomain-finder"]
+	path = Domain/censys-subdomain-finder
+	url = https://github.com/christophetd/censys-subdomain-finder
+
+[submodule "Other/SourceCode/gitleak"]
+	path = Other/SourceCode/gitleak
+	url = https://github.com/lfzark/gitleak
+
+[submodule "Other/Leaks/Keyring"]
+	path = Other/Leaks/Keyring
+	url = https://github.com/Mili-NT/Keyring
+
+[submodule "Phone/ya_perezvonu"]
+	path = Phone/ya_perezvonu
+	url = https://github.com/chipik/ya_perezvonu
+
+[submodule "Domain/aiodnsbrute"]
+	path = Domain/aiodnsbrute
+	url = https://github.com/blark/aiodnsbrute
+
+[submodule "Other/Leaks/GitHacker"]
+	path = Other/Leaks/GitHacker
+	url = https://github.com/WangYihang/GitHacker
+
+[submodule "Account/GitHub/GitGot"]
+	path = Account/GitHub/GitGot
+	url = https://github.com/BishopFox/GitGot
+
+[submodule "Other/SourceCode/GitGot"]
+	path = Other/SourceCode/GitGot
+	url = https://github.com/BishopFox/GitGot
+
+[submodule "Domain/dvcs-ripper"]
+	path = Domain/dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper
+
+[submodule "Other/SourceCode/dvcs-ripper"]
+	path = Other/SourceCode/dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper
+
+[submodule "Domain/xray"]
+	path = Domain/xray
+	url = https://github.com/evilsocket/xray
+[submodule "IP/ODIN"]
+	path = IP/ODIN
+	url = https://github.com/chrismaddalena/ODIN
+[submodule "Email/ODIN"]
+	path = Email/ODIN
+	url = https://github.com/chrismaddalena/ODIN
+[submodule "Domain/ODIN"]
+	path = Domain/ODIN
+	url = https://github.com/chrismaddalena/ODIN
+[submodule "Account/WhatsApp/WhatsApp-IP-logger"]
+	path = Account/WhatsApp/WhatsApp-IP-logger
+	url = https://github.com/abhijithvijayan/WhatsApp-IP-logger
+[submodule "Other/Phishing/seeker"]
+	path = Other/Phishing/seeker
+	url = https://github.com/thewhiteh4t/seeker
+[submodule "IP/spiderfoot"]
+	path = IP/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "Domain/spiderfoot"]
+	path = Domain/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "Network/spiderfoot"]
+	path = Network/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "Email/spiderfoot"]
+	path = Email/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "Phone/spiderfoot"]
+	path = Phone/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "Nickname/spiderfoot"]
+	path = Nickname/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "Full name/spiderfoot"]
+	path = Full name/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "IP/HostHunter"]
+	path = IP/HostHunter
+	url = https://github.com/SpiderLabs/HostHunter
+[submodule "IP/nmap"]
+	path = IP/nmap
+	url = https://github.com/nmap/nmap
+[submodule "Domain/nmap"]
+	path = Domain/nmap
+	url = https://github.com/nmap/nmap
+[submodule "IP/masscan"]
+	path = IP/masscan
+	url = https://github.com/robertdavidgraham/masscan
+[submodule "Domain/gasmask"]
+	path = Domain/gasmask
+	url = https://github.com/twelvesec/gasmask
+[submodule "Other/Leaks/secret-bridge"]
+	path = Other/Leaks/secret-bridge
+	url = https://github.com/duo-labs/secret-bridge
+[submodule "Account/GitHub/secret-bridge"]
+	path = Account/GitHub/secret-bridge
+	url = https://github.com/duo-labs/secret-bridge
+[submodule "Domain/datasploit"]
+	path = Domain/datasploit
+	url = https://github.com/DataSploit/datasploit
+[submodule "Webpage/Carbon14"]
+	path = Webpage/Carbon14
+	url = https://github.com/Lazza/Carbon14
+[submodule "Account/YouTube/youtube-dl"]
+	path = Account/YouTube/youtube-dl
+	url = https://github.com/ytdl-org/youtube-dl
+[submodule "Other/Leaks/radiocarbon"]
+	path = Other/Leaks/radiocarbon
+	url = https://github.com/Neo23x0/radiocarbon
+[submodule "Account/TikTok/TikTok-OSINT"]
+	path = Account/TikTok/TikTok-OSINT
+	url = https://github.com/sc1341/TikTok-OSINT
+[submodule "Account/WhatsApp/WhatsappMonitor"]
+	path = Account/WhatsApp/WhatsappMonitor
+	url = https://github.com/ErikTschierschke/WhatsappMonitor
+[submodule "Nickname/operative-framework"]
+	path = Nickname/operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "Domain/operative-framework"]
+	path = Domain/operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "IP/operative-framework"]
+	path = IP/operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "Phone/operative-framework"]
+	path = Phone/operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "Account/Instagram/operative-framework"]
+	path = Account/Instagram/operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "Account/Twitter/operative-framework"]
+	path = Account/Twitter/operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "Account/WhatsApp/operative-framework"]
+	path = Account/WhatsApp/operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "Other/Leaks/sniff-paste"]
+	path = Other/Leaks/sniff-paste
+	url = https://github.com/needmorecowbell/sniff-paste
+[submodule "Account/QQ/qq_group"]
+	path = Account/QQ/qq_group
+	url = https://github.com/1ocalhost/qq_group
+[submodule "Domain/Photon"]
+	path = Domain/Photon
+	url = https://github.com/s0md3v/Photon
+[submodule "Other/Leaks/leakScraper"]
+	path = Other/Leaks/leakScraper
+	url = https://github.com/Acceis/leakScraper
+[submodule "Nickname/karma"]
+	path = Nickname/karma
+	url = https://github.com/jdiazmx/karma
+[submodule "Domain/karma"]
+	path = Domain/karma
+	url = https://github.com/jdiazmx/karma
+[submodule "Email/karma"]
+	path = Email/karma
+	url = https://github.com/jdiazmx/karma
+[submodule "Password/karma"]
+	path = Password/karma
+	url = https://github.com/jdiazmx/karma
+[submodule "Other/Phishing/trape"]
+	path = Other/Phishing/trape
+	url = https://github.com/jofpin/trape
+[submodule "Other/Clouds/secret-leak-prevention-demo"]
+	path = Other/Clouds/secret-leak-prevention-demo
+	url = https://github.com/mbacchi/secret-leak-prevention-demo
+[submodule "Other/SourceCode/secret-leak-prevention-demo"]
+	path = Other/SourceCode/secret-leak-prevention-demo
+	url = https://github.com/mbacchi/secret-leak-prevention-demo
+[submodule "Other/Leaks/secret-leak-prevention-demo"]
+	path = Other/Leaks/secret-leak-prevention-demo
+	url = https://github.com/mbacchi/secret-leak-prevention-demo
+[submodule "Document/arxiv_leaks"]
+	path = Document/arxiv_leaks
+	url = https://github.com/soskek/arxiv_leaks
+[submodule "Photo/exiftool"]
+	path = Photo/exiftool
+	url = https://github.com/exiftool/exiftool
+[submodule "Document/exiftool"]
+	path = Document/exiftool
+	url = https://github.com/exiftool/exiftool
+[submodule "Document/aleph"]
+	path = Document/aleph
+	url = https://github.com/alephdata/aleph
+[submodule "Other/Leaks/aleph"]
+	path = Other/Leaks/aleph
+	url = https://github.com/alephdata/aleph
+[submodule "Other/Leaks/Breach-Miner"]
+	path = Other/Leaks/Breach-Miner
+	url = https://github.com/secworld/Breach-Miner
+[submodule "Domain/fav-up"]
+	path = Domain/fav-up
+	url = https://github.com/pielco11/fav-up
+[submodule "Other/Leaks/shhgit"]
+	path = Other/Leaks/shhgit
+	url = https://github.com/eth0izzle/shhgit
+[submodule "Other/SourceCode/shhgit"]
+	path = Other/SourceCode/shhgit
+	url = https://github.com/eth0izzle/shhgit
+[submodule "Account/GitHub/shhgit"]
+	path = Account/GitHub/shhgit
+	url = https://github.com/eth0izzle/shhgit
+[submodule "Account/GitLab/shhgit"]
+	path = Account/GitLab/shhgit
+	url = https://github.com/eth0izzle/shhgit
+[submodule "Account/BitBucket/shhgit"]
+	path = Account/BitBucket/shhgit
+	url = https://github.com/eth0izzle/shhgit
+[submodule "Other/Leaks/EMAGNET"]
+	path = Other/Leaks/EMAGNET
+	url = https://github.com/wuseman/EMAGNET
+[submodule "Account/Gmail/EMAGNET"]
+	path = Account/Gmail/EMAGNET
+	url = https://github.com/wuseman/EMAGNET
+[submodule "Account/Spotify/EMAGNET"]
+	path = Account/Spotify/EMAGNET
+	url = https://github.com/wuseman/EMAGNET
+[submodule "Other/Leaks/ipfs"]
+	path = Other/Leaks/ipfs
+	url = https://github.com/cryptodashie/ipfs
+[submodule "Other/Leaks/git-hound"]
+	path = Other/Leaks/git-hound
+	url = https://github.com/tillson/git-hound
+[submodule "Account/GitHub/git-hound"]
+	path = Account/GitHub/git-hound
+	url = https://github.com/tillson/git-hound
+[submodule "Photo/Belati"]
+	path = Photo/Belati
+	url = https://github.com/aancw/Belati
+[submodule "Domain/Belati"]
+	path = Domain/Belati
+	url = https://github.com/aancw/Belati
+[submodule "Other/SourceCode/Belati"]
+	path = Other/SourceCode/Belati
+	url = https://github.com/aancw/Belati
+[submodule "Other/SourceCode/gitem"]
+	path = Other/SourceCode/gitem
+	url = https://github.com/mschwager/gitem
+[submodule "Account/GitHub/gitem"]
+	path = Account/GitHub/gitem
+	url = https://github.com/mschwager/gitem
+[submodule "Other/Leaks/data_toolkit"]
+	path = Other/Leaks/data_toolkit
+	url = https://github.com/nand2xor/data_toolkit
+[submodule "Other/Leaks/seemnemaailm-leak-analysis"]
+	path = Other/Leaks/seemnemaailm-leak-analysis
+	url = https://github.com/Lauriy/seemnemaailm-leak-analysis
+[submodule "Domain/PwnBack"]
+	path = Domain/PwnBack
+	url = https://github.com/P3GLEG/PwnBack
+[submodule "Other/Clouds/MicroBurst"]
+	path = Other/Clouds/MicroBurst
+	url = https://github.com/NetSPI/MicroBurst
+[submodule "Account/Azure/MicroBurst"]
+	path = Account/Azure/MicroBurst
+	url = https://github.com/NetSPI/MicroBurst
+[submodule "Domain/recon-ng"]
+	path = Domain/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "Account/LinkedIn/recon-ng"]
+	path = Account/LinkedIn/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "Account/Twitter/recon-ng"]
+	path = Account/Twitter/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "Nickname/recon-ng"]
+	path = Nickname/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "Other/Leaks/recon-ng"]
+	path = Other/Leaks/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "Account/GitHub/recon-ng"]
+	path = Account/GitHub/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "Email/recon-ng"]
+	path = Email/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "Password/recon-ng"]
+	path = Password/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "IP/reconspider"]
+	path = IP/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "Domain/reconspider"]
+	path = Domain/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "Phone/reconspider"]
+	path = Phone/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "Nickname/reconspider"]
+	path = Nickname/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "Email/reconspider"]
+	path = Email/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "Photo/reconspider"]
+	path = Photo/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "Mac/reconspider"]
+	path = Mac/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "Other/Phishing/reconspider"]
+	path = Other/Phishing/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "Webpage/socid_extractor"]
+	path = Webpage/socid_extractor
+	url = https://github.com/soxoj/socid_extractor
+[submodule "Account/Instagram/Osintgram"]
+	path = Account/Instagram/Osintgram
+	url = https://github.com/Datalux/Osintgram
+[submodule "Webpage/shift-ctrl-f"]
+	path = Webpage/shift-ctrl-f
+	url = https://github.com/model-zoo/shift-ctrl-f
+[submodule "File/IntelOwl"]
+	path = File/IntelOwl
+	url = https://github.com/intelowlproject/IntelOwl
+[submodule "IP/IntelOwl"]
+	path = IP/IntelOwl
+	url = https://github.com/intelowlproject/IntelOwl
+[submodule "Domain/IntelOwl"]
+	path = Domain/IntelOwl
+	url = https://github.com/intelowlproject/IntelOwl
+[submodule "Domain/sn0int"]
+	path = Domain/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "IP/sn0int"]
+	path = IP/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "Email/sn0int"]
+	path = Email/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "Nickname/sn0int"]
+	path = Nickname/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "Other/Leaks/sn0int"]
+	path = Other/Leaks/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "Phone/sn0int"]
+	path = Phone/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "Account/Instagram/sn0int"]
+	path = Account/Instagram/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "Photo/sn0int"]
+	path = Photo/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "Photo/Face-Depixelizer"]
+	path = Photo/Face-Depixelizer
+	url = https://github.com/tg-bomze/Face-Depixelizer
+[submodule "Account/YouTube/youtube_tool"]
+	path = Account/YouTube/youtube_tool
+	url = https://github.com/nlitsme/youtube_tool
+[submodule "Webpage/social-media-profiles-regexs"]
+	path = Webpage/social-media-profiles-regexs
+	url = https://github.com/lorey/social-media-profiles-regexs
+[submodule "Account/Snapchat/snapchat-map-scraper"]
+	path = Account/Snapchat/snapchat-map-scraper
+	url = https://github.com/nemec/snapchat-map-scraper
+[submodule "Other/VMs/OsintDistro"]
+	path = Other/VMs/OsintDistro
+	url = https://github.com/HuronOsint/OsintDistro
+[submodule "Other/VMs/dora-osint-vm"]
+	path = Other/VMs/dora-osint-vm
+	url = https://github.com/axlshear/dora-osint-vm
+[submodule "Account/YouTube/youtube-geofind"]
+	path = Account/YouTube/youtube-geofind
+	url = https://github.com/mattwright324/youtube-geofind
+[submodule "Account/Twitter/TwitWork"]
+	path = Account/Twitter/TwitWork
+	url = https://github.com/atmoner/TwitWork
+[submodule "Account/Instagram/instaloctrack"]
+	path = Account/Instagram/instaloctrack
+	url = https://github.com/bernsteining/instaloctrack
+[submodule "IP/Kamerka-GUI"]
+	path = IP/Kamerka-GUI
+	url = https://github.com/woj-ciech/Kamerka-GUI
+[submodule "Domain/jeopardize"]
+	path = Domain/jeopardize
+	url = https://github.com/utkusen/jeopardize
+[submodule "Phone/phonia"]
+	path = Phone/phonia
+	url = https://github.com/entynetproject/phonia
+[submodule "Domain/theHarvester"]
+	path = Domain/theHarvester
+	url = https://github.com/laramies/theHarvester
+[submodule "Fullname/spiderfoot"]
+	path = Fullname/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "Other/Automation/recon-ng"]
+	path = Other/Automation/recon-ng
+	url = https://github.com/lanmaster53/recon-ng
+[submodule "Other/Automation/sn0int"]
+	path = Other/Automation/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "Domain/Sublist3r"]
+	path = Domain/Sublist3r
+	url = https://github.com/aboul3la/Sublist3r
+[submodule "Document/metagoofil"]
+	path = Document/metagoofil
+	url = https://github.com/laramies/metagoofil
+[submodule "Domain/metagoofil"]
+	path = Domain/metagoofil
+	url = https://github.com/laramies/metagoofil
+[submodule "Domain/Spiderpig"]
+	path = Domain/Spiderpig
+	url = https://github.com/hatlord/Spiderpig
+[submodule "Email/buster"]
+	path = Email/buster
+	url = https://github.com/sham00n/buster
+[submodule "Nickname/buster"]
+	path = Nickname/buster
+	url = https://github.com/sham00n/buster
+[submodule "Fullname/buster"]
+	path = Fullname/buster
+	url = https://github.com/sham00n/buster
+[submodule "Domain/Infoga"]
+	path = Domain/Infoga
+	url = https://github.com/m4ll0k/Infoga
+[submodule "Email/Infoga"]
+	path = Email/Infoga
+	url = https://github.com/m4ll0k/Infoga
+[submodule "Email/OSINT-Search"]
+	path = Email/OSINT-Search
+	url = https://github.com/am0nt31r0/OSINT-Search
+[submodule "Domain/OSINT-Search"]
+	path = Domain/OSINT-Search
+	url = https://github.com/am0nt31r0/OSINT-Search
+[submodule "IP/OSINT-Search"]
+	path = IP/OSINT-Search
+	url = https://github.com/am0nt31r0/OSINT-Search
+[submodule "Webpage/OSINT-Search"]
+	path = Webpage/OSINT-Search
+	url = https://github.com/am0nt31r0/OSINT-Search
+[submodule "Other/Automation/OSINT-Search"]
+	path = Other/Automation/OSINT-Search
+	url = https://github.com/am0nt31r0/OSINT-Search
+[submodule "Other/Leaks/DumpsterDiver"]
+	path = Other/Leaks/DumpsterDiver
+	url = https://github.com/securing/DumpsterDiver
+[submodule "Document/DumpsterDiver"]
+	path = Document/DumpsterDiver
+	url = https://github.com/securing/DumpsterDiver
+[submodule "Photo/exifprobe"]
+	path = Photo/exifprobe
+	url = https://github.com/hfiguiere/exifprobe
+[submodule "Photo/exifscan"]
+	path = Photo/exifscan
+	url = https://github.com/kusk/exifscan
+[submodule "Document/stego-toolkit"]
+	path = Document/stego-toolkit
+	url = https://github.com/DominicBreuker/stego-toolkit
+[submodule "Audio/stego-toolkit"]
+	path = Audio/stego-toolkit
+	url = https://github.com/DominicBreuker/stego-toolkit
+[submodule "Photo/stego-toolkit"]
+	path = Photo/stego-toolkit
+	url = https://github.com/DominicBreuker/stego-toolkit
+[submodule "Other/Automation/FinalRecon"]
+	path = Other/Automation/FinalRecon
+	url = https://github.com/thewhiteh4t/FinalRecon
+[submodule "Domain/FinalRecon"]
+	path = Domain/FinalRecon
+	url = https://github.com/thewhiteh4t/FinalRecon
+[submodule "Phone/LittleBrother"]
+	path = Phone/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Email/LittleBrother"]
+	path = Email/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Fullname/LittleBrother"]
+	path = Fullname/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "IP/LittleBrother"]
+	path = IP/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Photo/LittleBrother"]
+	path = Photo/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Account/Twitter/LittleBrother"]
+	path = Account/Twitter/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Account/Instagram/LittleBrother"]
+	path = Account/Instagram/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Account/Facebook/LittleBrother"]
+	path = Account/Facebook/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Account/LinkedIn/LittleBrother"]
+	path = Account/LinkedIn/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Hash/LittleBrother"]
+	path = Hash/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Other/Automation/LittleBrother"]
+	path = Other/Automation/LittleBrother
+	url = https://github.com/lulz3xploit/LittleBrother
+[submodule "Hash/john"]
+	path = Hash/john
+	url = https://github.com/openwall/john
+[submodule "Phone/No-BlackM"]
+	path = Phone/No-BlackM
+	url = https://github.com/DataSC3/No-BlackM
+[submodule "Account/LinkedIn/OSINT_Spider.py"]
+	path = Account/LinkedIn/OSINT_Spider.py
+	url = https://github.com/rebootORZ/OSINT_Spider.py
+[submodule "Other/Leaks/PasteHunter"]
+	path = Other/Leaks/PasteHunter
+	url = https://github.com/kevthehermit/PasteHunter
+[submodule "IP/IPDump"]
+	path = IP/IPDump
+	url = https://github.com/fputs/IPDump
+[submodule "Domain/IPDump"]
+	path = Domain/IPDump
+	url = https://github.com/fputs/IPDump
+[submodule "Domain/WikiLeaker"]
+	path = Domain/WikiLeaker
+	url = https://github.com/jocephus/WikiLeaker
+[submodule "Account/Instagram/instaloader"]
+	path = Account/Instagram/instaloader
+	url = https://github.com/instaloader/instaloader
+[submodule "Domain/checkdmarc"]
+	path = Domain/checkdmarc
+	url = https://github.com/domainaware/checkdmarc
+[submodule "Phone/skiptracer"]
+	path = Phone/skiptracer
+	url = https://github.com/xillwillx/skiptracer
+[submodule "Email/skiptracer"]
+	path = Email/skiptracer
+	url = https://github.com/xillwillx/skiptracer
+[submodule "Fullname/skiptracer"]
+	path = Fullname/skiptracer
+	url = https://github.com/xillwillx/skiptracer
+[submodule "IP/skiptracer"]
+	path = IP/skiptracer
+	url = https://github.com/xillwillx/skiptracer
+[submodule "Domain/skiptracer"]
+	path = Domain/skiptracer
+	url = https://github.com/xillwillx/skiptracer
+[submodule "Other/Leaks/skiptracer"]
+	path = Other/Leaks/skiptracer
+	url = https://github.com/xillwillx/skiptracer
+[submodule "Other/Identifier/python-stdnum"]
+	path = Other/Identifier/python-stdnum
+	url = https://github.com/arthurdejong/python-stdnum
+[submodule "Other/Leaks/Scavenger"]
+	path = Other/Leaks/Scavenger
+	url = https://github.com/rndinfosecguy/Scavenger
+[submodule "Account/Telegram/TeleGram-Scraper"]
+	path = Account/Telegram/TeleGram-Scraper
+	url = https://github.com/th3unkn0n/TeleGram-Scraper
