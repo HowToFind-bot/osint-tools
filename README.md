@@ -1,17 +1,13 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 151 repos.
+Various OSINT tools and scripts, total 153 repos.
 
 ## Categories
 
 - [Account](Account)
 
   - [Azure](Account/Azure), [BitBucket](Account/BitBucket), [Facebook](Account/Facebook), [GitHub](Account/GitHub), [GitLab](Account/GitLab), [Gmail](Account/Gmail), [Instagram](Account/Instagram), [LinkedIn](Account/LinkedIn), [Odnoklassniki](Account/Odnoklassniki), [QQ](Account/QQ), [Snapchat](Account/Snapchat), [Spotify](Account/Spotify), [Telegram](Account/Telegram), [TikTok](Account/TikTok), [Twitter](Account/Twitter), [VK](Account/VK), [WhatsApp](Account/WhatsApp), [Yandex](Account/Yandex), [YouTube](Account/YouTube)
-- [Audio](Audio)
-
 - [Cryptocurrency](Cryptocurrency)
-
-- [Document](Document)
 
 - [Domain](Domain)
 
@@ -19,6 +15,7 @@ Various OSINT tools and scripts, total 151 repos.
 
 - [File](File)
 
+  - [Audio](File/Audio), [Document](File/Document), [Malware](File/Malware), [Photo](File/Photo)
 - [Fullname](Fullname)
 
 - [Hash](Hash)
@@ -37,8 +34,6 @@ Various OSINT tools and scripts, total 151 repos.
 - [Password](Password)
 
 - [Phone](Phone)
-
-- [Photo](Photo)
 
 - [Token](Token)
 

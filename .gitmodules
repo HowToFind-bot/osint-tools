@@ -346,17 +346,17 @@
 [submodule "Other/Leaks/secret-leak-prevention-demo"]
 	path = Other/Leaks/secret-leak-prevention-demo
 	url = https://github.com/mbacchi/secret-leak-prevention-demo
-[submodule "Document/arxiv_leaks"]
-	path = Document/arxiv_leaks
+[submodule "File/Document/arxiv_leaks"]
+	path = File/Document/arxiv_leaks
 	url = https://github.com/soskek/arxiv_leaks
-[submodule "Photo/exiftool"]
-	path = Photo/exiftool
+[submodule "File/Photo/exiftool"]
+	path = File/Photo/exiftool
 	url = https://github.com/exiftool/exiftool
-[submodule "Document/exiftool"]
-	path = Document/exiftool
+[submodule "File/Document/exiftool"]
+	path = File/Document/exiftool
 	url = https://github.com/exiftool/exiftool
-[submodule "Document/aleph"]
-	path = Document/aleph
+[submodule "File/Document/aleph"]
+	path = File/Document/aleph
 	url = https://github.com/alephdata/aleph
 [submodule "Other/Leaks/aleph"]
 	path = Other/Leaks/aleph
@@ -403,8 +403,8 @@
 [submodule "Account/GitHub/git-hound"]
 	path = Account/GitHub/git-hound
 	url = https://github.com/tillson/git-hound
-[submodule "Photo/Belati"]
-	path = Photo/Belati
+[submodule "File/Photo/Belati"]
+	path = File/Photo/Belati
 	url = https://github.com/aancw/Belati
 [submodule "Domain/Belati"]
 	path = Domain/Belati
@@ -475,8 +475,8 @@
 [submodule "Email/reconspider"]
 	path = Email/reconspider
 	url = https://github.com/bhavsec/reconspider
-[submodule "Photo/reconspider"]
-	path = Photo/reconspider
+[submodule "File/Photo/reconspider"]
+	path = File/Photo/reconspider
 	url = https://github.com/bhavsec/reconspider
 [submodule "Mac/reconspider"]
 	path = Mac/reconspider
@@ -490,8 +490,8 @@
 [submodule "Webpage/shift-ctrl-f"]
 	path = Webpage/shift-ctrl-f
 	url = https://github.com/model-zoo/shift-ctrl-f
-[submodule "File/IntelOwl"]
-	path = File/IntelOwl
+[submodule "File/Malware/IntelOwl"]
+	path = File/Malware/IntelOwl
 	url = https://github.com/intelowlproject/IntelOwl
 [submodule "IP/IntelOwl"]
 	path = IP/IntelOwl
@@ -520,14 +520,14 @@
 [submodule "Account/Instagram/sn0int"]
 	path = Account/Instagram/sn0int
 	url = https://github.com/kpcyrd/sn0int
-[submodule "Photo/sn0int"]
-	path = Photo/sn0int
+[submodule "File/Photo/sn0int"]
+	path = File/Photo/sn0int
 	url = https://github.com/kpcyrd/sn0int
 [submodule "Other/Automation/sn0int"]
 	path = Other/Automation/sn0int
 	url = https://github.com/kpcyrd/sn0int
-[submodule "Photo/Face-Depixelizer"]
-	path = Photo/Face-Depixelizer
+[submodule "File/Photo/Face-Depixelizer"]
+	path = File/Photo/Face-Depixelizer
 	url = https://github.com/tg-bomze/Face-Depixelizer
 [submodule "Account/YouTube/youtube_tool"]
 	path = Account/YouTube/youtube_tool
@@ -565,8 +565,8 @@
 [submodule "Domain/Sublist3r"]
 	path = Domain/Sublist3r
 	url = https://github.com/aboul3la/Sublist3r
-[submodule "Document/metagoofil"]
-	path = Document/metagoofil
+[submodule "File/Document/metagoofil"]
+	path = File/Document/metagoofil
 	url = https://github.com/laramies/metagoofil
 [submodule "Domain/metagoofil"]
 	path = Domain/metagoofil
@@ -607,23 +607,23 @@
 [submodule "Other/Leaks/DumpsterDiver"]
 	path = Other/Leaks/DumpsterDiver
 	url = https://github.com/securing/DumpsterDiver
-[submodule "Document/DumpsterDiver"]
-	path = Document/DumpsterDiver
+[submodule "File/Document/DumpsterDiver"]
+	path = File/Document/DumpsterDiver
 	url = https://github.com/securing/DumpsterDiver
-[submodule "Photo/exifprobe"]
-	path = Photo/exifprobe
+[submodule "File/Photo/exifprobe"]
+	path = File/Photo/exifprobe
 	url = https://github.com/hfiguiere/exifprobe
-[submodule "Photo/exifscan"]
-	path = Photo/exifscan
+[submodule "File/Photo/exifscan"]
+	path = File/Photo/exifscan
 	url = https://github.com/kusk/exifscan
-[submodule "Document/stego-toolkit"]
-	path = Document/stego-toolkit
+[submodule "File/Document/stego-toolkit"]
+	path = File/Document/stego-toolkit
 	url = https://github.com/DominicBreuker/stego-toolkit
-[submodule "Audio/stego-toolkit"]
-	path = Audio/stego-toolkit
+[submodule "File/Audio/stego-toolkit"]
+	path = File/Audio/stego-toolkit
 	url = https://github.com/DominicBreuker/stego-toolkit
-[submodule "Photo/stego-toolkit"]
-	path = Photo/stego-toolkit
+[submodule "File/Photo/stego-toolkit"]
+	path = File/Photo/stego-toolkit
 	url = https://github.com/DominicBreuker/stego-toolkit
 [submodule "Other/Automation/FinalRecon"]
 	path = Other/Automation/FinalRecon
@@ -643,8 +643,8 @@
 [submodule "IP/LittleBrother"]
 	path = IP/LittleBrother
 	url = https://github.com/lulz3xploit/LittleBrother
-[submodule "Photo/LittleBrother"]
-	path = Photo/LittleBrother
+[submodule "File/Photo/LittleBrother"]
+	path = File/Photo/LittleBrother
 	url = https://github.com/lulz3xploit/LittleBrother
 [submodule "Account/Twitter/LittleBrother"]
 	path = Account/Twitter/LittleBrother
@@ -700,8 +700,8 @@
 [submodule "Account/Telegram/TeleGram-Scraper"]
 	path = Account/Telegram/TeleGram-Scraper
 	url = https://github.com/th3unkn0n/TeleGram-Scraper
-[submodule "Photo/fawkes"]
-	path = Photo/fawkes
+[submodule "File/Photo/fawkes"]
+	path = File/Photo/fawkes
 	url = https://github.com/Shawn-Shan/fawkes
 [submodule "Domain/uDork"]
 	path = Domain/uDork
@@ -721,8 +721,8 @@
 [submodule "Webpage/waybackpack"]
 	path = Webpage/waybackpack
 	url = https://github.com/jsvine/waybackpack
-[submodule "Document/OCRmyPDF"]
-	path = Document/OCRmyPDF
+[submodule "File/Document/OCRmyPDF"]
+	path = File/Document/OCRmyPDF
 	url = https://github.com/jbarlow83/OCRmyPDF
 [submodule "Domain/Amass"]
 	path = Domain/Amass
@@ -793,3 +793,15 @@
 [submodule "Other/Maltego/michenriksen_maltego"]
 	path = Other/Maltego/michenriksen_maltego
 	url = https://github.com/michenriksen/maltego
+[submodule "Account/Twitter/TIGMINT"]
+	path = Account/Twitter/TIGMINT
+	url = https://github.com/TIGMINT/TIGMINT
+[submodule "Account/Instagram/TIGMINT"]
+	path = Account/Instagram/TIGMINT
+	url = https://github.com/TIGMINT/TIGMINT
+[submodule "Nickname/TIGMINT"]
+	path = Nickname/TIGMINT
+	url = https://github.com/TIGMINT/TIGMINT
+[submodule "Account/Instagram/Instagrab"]
+	path = Account/Instagram/Instagrab
+	url = https://github.com/KevCui/Instagrab
