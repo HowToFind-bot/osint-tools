@@ -1,12 +1,14 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 153 repos.
+Various OSINT tools and scripts, total 163 repos.
 
 ## Categories
 
 - [Account](Account)
 
   - [Azure](Account/Azure), [BitBucket](Account/BitBucket), [Facebook](Account/Facebook), [GitHub](Account/GitHub), [GitLab](Account/GitLab), [Gmail](Account/Gmail), [Instagram](Account/Instagram), [LinkedIn](Account/LinkedIn), [Odnoklassniki](Account/Odnoklassniki), [QQ](Account/QQ), [Snapchat](Account/Snapchat), [Spotify](Account/Spotify), [Telegram](Account/Telegram), [TikTok](Account/TikTok), [Twitter](Account/Twitter), [VK](Account/VK), [WhatsApp](Account/WhatsApp), [Yandex](Account/Yandex), [YouTube](Account/YouTube)
+- [CreditCard](CreditCard)
+
 - [Cryptocurrency](Cryptocurrency)
 
 - [Domain](Domain)
@@ -30,7 +32,7 @@ Various OSINT tools and scripts, total 153 repos.
 
 - [Other](Other)
 
-  - [Automation](Other/Automation), [Clouds](Other/Clouds), [Identifier](Other/Identifier), [Leaks](Other/Leaks), [Maltego](Other/Maltego), [Phishing](Other/Phishing), [SourceCode](Other/SourceCode), [VMs](Other/VMs), [WiFi](Other/WiFi)
+  - [Automation](Other/Automation), [Clouds](Other/Clouds), [Identifier](Other/Identifier), [Info](Other/Info), [Leaks](Other/Leaks), [Maltego](Other/Maltego), [Phishing](Other/Phishing), [SourceCode](Other/SourceCode), [VMs](Other/VMs), [WiFi](Other/WiFi)
 - [Password](Password)
 
 - [Phone](Phone)
