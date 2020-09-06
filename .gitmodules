@@ -805,3 +805,60 @@
 [submodule "Account/Instagram/Instagrab"]
 	path = Account/Instagram/Instagrab
 	url = https://github.com/KevCui/Instagrab
+[submodule "Domain/Maryam"]
+	path = Domain/Maryam
+	url = https://github.com/saeeddhqan/Maryam
+[submodule "Webpage/Maryam"]
+	path = Webpage/Maryam
+	url = https://github.com/saeeddhqan/Maryam
+[submodule "Account/LinkedIn/Maryam"]
+	path = Account/LinkedIn/Maryam
+	url = https://github.com/saeeddhqan/Maryam
+[submodule "Account/Twitter/Maryam"]
+	path = Account/Twitter/Maryam
+	url = https://github.com/saeeddhqan/Maryam
+[submodule "Other/Automation/Maryam"]
+	path = Other/Automation/Maryam
+	url = https://github.com/saeeddhqan/Maryam
+[submodule "Phone/DeadTrap"]
+	path = Phone/DeadTrap
+	url = https://github.com/Chr0m0s0m3s/DeadTrap
+[submodule "Other/Maltego/MISP-maltego"]
+	path = Other/Maltego/MISP-maltego
+	url = https://github.com/MISP/MISP-maltego
+[submodule "Phone/Scylla"]
+	path = Phone/Scylla
+	url = https://github.com/josh0xA/Scylla
+[submodule "Nickname/Scylla"]
+	path = Nickname/Scylla
+	url = https://github.com/josh0xA/Scylla
+[submodule "Account/Twitter/Scylla"]
+	path = Account/Twitter/Scylla
+	url = https://github.com/josh0xA/Scylla
+[submodule "Account/Instagram/Scylla"]
+	path = Account/Instagram/Scylla
+	url = https://github.com/josh0xA/Scylla
+[submodule "IP/Scylla"]
+	path = IP/Scylla
+	url = https://github.com/josh0xA/Scylla
+[submodule "CreditCard/Scylla"]
+	path = CreditCard/Scylla
+	url = https://github.com/josh0xA/Scylla
+[submodule "Other/Info/OSINT-Framework"]
+	path = Other/Info/OSINT-Framework
+	url = https://github.com/lockfale/OSINT-Framework
+[submodule "Other/Info/netstalking-osint"]
+	path = Other/Info/netstalking-osint
+	url = https://github.com/netstalking-core/netstalking-osint
+[submodule "Other/Info/OSINT_Collection"]
+	path = Other/Info/OSINT_Collection
+	url = https://github.com/Ph055a/OSINT_Collection
+[submodule "Other/Info/DFW1N-OSINT"]
+	path = Other/Info/DFW1N-OSINT
+	url = https://github.com/0x90n/DFW1N-OSINT
+[submodule "Account/Telegram/chatter"]
+	path = Account/Telegram/chatter
+	url = https://github.com/visualbasic6/chatter
+[submodule "Nickname/MagmaOsint"]
+	path = Nickname/MagmaOsint
+	url = https://github.com/LimerBoy/MagmaOsint
