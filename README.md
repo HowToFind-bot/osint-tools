@@ -26,8 +26,6 @@ Various OSINT tools and scripts, total 167 repos.
 
 - [MAC](MAC)
 
-- [Mac](Mac)
-
 - [Network](Network)
 
 - [Nickname](Nickname)

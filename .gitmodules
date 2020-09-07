@@ -478,8 +478,8 @@
 [submodule "File/Photo/reconspider"]
 	path = File/Photo/reconspider
 	url = https://github.com/bhavsec/reconspider
-[submodule "Mac/reconspider"]
-	path = Mac/reconspider
+[submodule "MAC/reconspider"]
+	path = MAC/reconspider
 	url = https://github.com/bhavsec/reconspider
 [submodule "Other/Phishing/reconspider"]
 	path = Other/Phishing/reconspider
