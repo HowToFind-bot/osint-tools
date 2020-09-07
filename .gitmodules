@@ -862,3 +862,18 @@
 [submodule "Nickname/MagmaOsint"]
 	path = Nickname/MagmaOsint
 	url = https://github.com/LimerBoy/MagmaOsint
+[submodule "MAC/mac_vendor_lookup"]
+	path = MAC/mac_vendor_lookup
+	url = https://github.com/bauerj/mac_vendor_lookup
+[submodule "IP/CyberChef"]
+	path = IP/CyberChef
+	url = https://github.com/gchq/CyberChef
+[submodule "Hash/CyberChef"]
+	path = Hash/CyberChef
+	url = https://github.com/gchq/CyberChef
+[submodule "Other/Phishing/nero-phishing-server"]
+	path = Other/Phishing/nero-phishing-server
+	url = https://github.com/kurogai/nero-phishing-server
+[submodule "File/Document/FOCA"]
+	path = File/Document/FOCA
+	url = https://github.com/ElevenPaths/FOCA
