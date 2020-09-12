@@ -196,6 +196,12 @@
 [submodule "Other/SourceCode/gitleak"]
 	path = Other/SourceCode/gitleak
 	url = https://github.com/lfzark/gitleak
+[submodule "Account/GitHub/gitleak"]
+	path = Account/GitHub/gitleak
+	url = https://github.com/lfzark/gitleak
+[submodule "Other/Leaks/gitleak"]
+	path = Other/Leaks/gitleak
+	url = https://github.com/lfzark/gitleak
 [submodule "Other/Leaks/Keyring"]
 	path = Other/Leaks/Keyring
 	url = https://github.com/Mili-NT/Keyring
@@ -877,3 +883,84 @@
 [submodule "File/Document/FOCA"]
 	path = File/Document/FOCA
 	url = https://github.com/ElevenPaths/FOCA
+[submodule "Cryptocurrency/OSINT-SPY"]
+	path = Cryptocurrency/OSINT-SPY
+	url = https://github.com/SharadKumar97/OSINT-SPY
+[submodule "Domain/OSINT-SPY"]
+	path = Domain/OSINT-SPY
+	url = https://github.com/SharadKumar97/OSINT-SPY
+[submodule "Email/OSINT-SPY"]
+	path = Email/OSINT-SPY
+	url = https://github.com/SharadKumar97/OSINT-SPY
+[submodule "IP/OSINT-SPY"]
+	path = IP/OSINT-SPY
+	url = https://github.com/SharadKumar97/OSINT-SPY
+[submodule "File/Malware/OSINT-SPY"]
+	path = File/Malware/OSINT-SPY
+	url = https://github.com/SharadKumar97/OSINT-SPY
+[submodule "Nickname/querytool"]
+	path = Nickname/querytool
+	url = https://github.com/oryon-osint/querytool
+[submodule "Domain/querytool"]
+	path = Domain/querytool
+	url = https://github.com/oryon-osint/querytool
+[submodule "Fullname/querytool"]
+	path = Fullname/querytool
+	url = https://github.com/oryon-osint/querytool
+[submodule "IP/querytool"]
+	path = IP/querytool
+	url = https://github.com/oryon-osint/querytool
+[submodule "Account/GitHub/gitleaks"]
+	path = Account/GitHub/gitleaks
+	url = https://github.com/zricethezav/gitleaks
+[submodule "Account/GitLab/gitleaks"]
+	path = Account/GitLab/gitleaks
+	url = https://github.com/zricethezav/gitleaks
+[submodule "Other/Leaks/gitleaks"]
+	path = Other/Leaks/gitleaks
+	url = https://github.com/zricethezav/gitleaks
+[submodule "Other/SourceCode/gitleaks"]
+	path = Other/SourceCode/gitleaks
+	url = https://github.com/zricethezav/gitleaks
+[submodule "Account/Twitter/tafferugli"]
+	path = Account/Twitter/tafferugli
+	url = https://github.com/sowdust/tafferugli
+[submodule "IP/blocklist-ipsets"]
+	path = IP/blocklist-ipsets
+	url = https://github.com/firehol/blocklist-ipsets
+[submodule "Domain/hosts"]
+	path = Domain/hosts
+	url = https://github.com/StevenBlack/hosts
+[submodule "Phone/Moriarty-Project"]
+	path = Phone/Moriarty-Project
+	url = https://github.com/AzizKpln/Moriarty-Project
+[submodule "Account/Gmail/Moriarty-Project"]
+	path = Account/Gmail/Moriarty-Project
+	url = https://github.com/AzizKpln/Moriarty-Project
+[submodule "Account/Microsoft/Moriarty-Project"]
+	path = Account/Microsoft/Moriarty-Project
+	url = https://github.com/AzizKpln/Moriarty-Project
+[submodule "IP/sifter"]
+	path = IP/sifter
+	url = https://github.com/s1l3nt78/sifter
+[submodule "Email/sifter"]
+	path = Email/sifter
+	url = https://github.com/s1l3nt78/sifter
+[submodule "Domain/sifter"]
+	path = Domain/sifter
+	url = https://github.com/s1l3nt78/sifter
+[submodule "Other/Leaks/sifter"]
+	path = Other/Leaks/sifter
+	url = https://github.com/s1l3nt78/sifter
+[submodule "Other/Automation/sifter"]
+	path = Other/Automation/sifter
+	url = https://github.com/s1l3nt78/sifter
+[submodule "Hash/sifter"]
+	path = Hash/sifter
+	url = https://github.com/s1l3nt78/sifter
+[submodule "Other/Phishing/sifter"]
+	path = Other/Phishing/sifter
+	url = https://github.com/s1l3nt78/sifter
+[submodule "Nickname/sifter"]
+	path = Nickname/sifter
+	url = https://github.com/s1l3nt78/sifter

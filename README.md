@@ -1,12 +1,12 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 167 repos.
+Various OSINT tools and scripts, total 175 repos.
 
 ## Categories
 
 - [Account](Account)
 
-  - [Azure](Account/Azure), [BitBucket](Account/BitBucket), [Facebook](Account/Facebook), [GitHub](Account/GitHub), [GitLab](Account/GitLab), [Gmail](Account/Gmail), [Instagram](Account/Instagram), [LinkedIn](Account/LinkedIn), [Odnoklassniki](Account/Odnoklassniki), [QQ](Account/QQ), [Snapchat](Account/Snapchat), [Spotify](Account/Spotify), [Telegram](Account/Telegram), [TikTok](Account/TikTok), [Twitter](Account/Twitter), [VK](Account/VK), [WhatsApp](Account/WhatsApp), [Yandex](Account/Yandex), [YouTube](Account/YouTube)
+  - [Azure](Account/Azure), [BitBucket](Account/BitBucket), [Facebook](Account/Facebook), [GitHub](Account/GitHub), [GitLab](Account/GitLab), [Gmail](Account/Gmail), [Instagram](Account/Instagram), [LinkedIn](Account/LinkedIn), [Microsoft](Account/Microsoft), [Odnoklassniki](Account/Odnoklassniki), [QQ](Account/QQ), [Snapchat](Account/Snapchat), [Spotify](Account/Spotify), [Telegram](Account/Telegram), [TikTok](Account/TikTok), [Twitter](Account/Twitter), [VK](Account/VK), [WhatsApp](Account/WhatsApp), [Yandex](Account/Yandex), [YouTube](Account/YouTube)
 - [CreditCard](CreditCard)
 
 - [Cryptocurrency](Cryptocurrency)
