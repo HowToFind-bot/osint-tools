@@ -964,3 +964,33 @@
 [submodule "Nickname/sifter"]
 	path = Nickname/sifter
 	url = https://github.com/s1l3nt78/sifter
+[submodule "Account/Instagram/osi_ig"]
+	path = Account/Instagram/osi_ig
+	url = https://github.com/th3unkn0n/osi.ig
+[submodule "Other/Info/awesome-osint"]
+	path = Other/Info/awesome-osint
+	url = https://github.com/jivoi/awesome-osint
+[submodule "Domain/WaybackPDF"]
+	path = Domain/WaybackPDF
+	url = https://github.com/Haax9/WaybackPDF
+[submodule "Other/Leaks/darkshot"]
+	path = Other/Leaks/darkshot
+	url = https://github.com/mxrch/darkshot
+[submodule "Other/Phishing/king-phisher"]
+	path = Other/Phishing/king-phisher
+	url = https://github.com/rsmusllp/king-phisher
+[submodule "Other/WiFi/nearby"]
+	path = Other/WiFi/nearby
+	url = https://github.com/wisespace-io/nearby
+[submodule "Other/Login/default-http-login-hunter"]
+	path = Other/Login/default-http-login-hunter
+	url = https://github.com/InfosecMatter/default-http-login-hunter
+[submodule "Domain/CMSeeK"]
+	path = Domain/CMSeeK
+	url = https://github.com/Tuhinshubhra/CMSeeK
+[submodule "Webpage/CMSeeK"]
+	path = Webpage/CMSeeK
+	url = https://github.com/Tuhinshubhra/CMSeeK
+[submodule "Network/skydive"]
+	path = Network/skydive
+	url = https://github.com/skydive-project/skydive
