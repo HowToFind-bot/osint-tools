@@ -994,3 +994,6 @@
 [submodule "Network/skydive"]
 	path = Network/skydive
 	url = https://github.com/skydive-project/skydive
+[submodule "Email/GHunt"]
+	path = Email/GHunt
+	url = https://github.com/mxrch/GHunt
