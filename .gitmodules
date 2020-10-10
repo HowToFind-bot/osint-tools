@@ -715,9 +715,6 @@
 [submodule "IP/uDork"]
 	path = IP/uDork
 	url = https://github.com/m3n0sd0n4ld/uDork
-[submodule "Account/Instagram/toutatis"]
-	path = Account/Instagram/toutatis
-	url = https://github.com/megadose/toutatis
 [submodule "Domain/squatm3gator"]
 	path = Domain/squatm3gator
 	url = https://github.com/david3107/squatm3gator
@@ -1003,3 +1000,81 @@
 [submodule "File/Photo/deface"]
 	path = File/Photo/deface
 	url = https://github.com/ORB-HD/deface
+[submodule "Email/holehe"]
+	path = Email/holehe
+	url = https://github.com/megadose/holehe
+[submodule "Email/holehe-maltego"]
+	path = Email/holehe-maltego
+	url = https://github.com/megadose/holehe-maltego
+[submodule "Other/Maltego/holehe-maltego"]
+	path = Other/Maltego/holehe-maltego
+	url = https://github.com/megadose/holehe-maltego
+[submodule "Account/Facebook/facebook_totem"]
+	path = Account/Facebook/facebook_totem
+	url = https://github.com/megadose/facebook_totem
+[submodule "Account/Facebook/totem-maltego"]
+	path = Account/Facebook/totem-maltego
+	url = https://github.com/megadose/totem-maltego
+[submodule "Other/Maltego/totem-maltego"]
+	path = Other/Maltego/totem-maltego
+	url = https://github.com/megadose/totem-maltego
+[submodule "Nickname/Quidam"]
+	path = Nickname/Quidam
+	url = https://github.com/megadose/Quidam
+[submodule "Nickname/quidam-maltego"]
+	path = Nickname/quidam-maltego
+	url = https://github.com/megadose/quidam-maltego
+[submodule "Other/Maltego/quidam-maltego"]
+	path = Other/Maltego/quidam-maltego
+	url = https://github.com/megadose/quidam-maltego
+[submodule "Email/hunter-maltego"]
+	path = Email/hunter-maltego
+	url = https://github.com/megadose/hunter-maltego
+[submodule "Other/Maltego/hunter-maltego"]
+	path = Other/Maltego/hunter-maltego
+	url = https://github.com/megadose/hunter-maltego
+[submodule "Account/Instagram/toutatis"]
+	path = Account/Instagram/toutatis
+	url = https://github.com/megadose/toutatis
+[submodule "Account/Instagram/toutatis-maltego"]
+	path = Account/Instagram/toutatis-maltego
+	url = https://github.com/megadose/toutatis-maltego
+[submodule "Other/Maltego/toutatis-maltego"]
+	path = Other/Maltego/toutatis-maltego
+	url = https://github.com/megadose/toutatis-maltego
+[submodule "Account/LinkedIn/nqntnqnqmb"]
+	path = Account/LinkedIn/nqntnqnqmb
+	url = https://github.com/megadose/nqntnqnqmb
+[submodule "Account/LinkedIn/nqntnqnqmb-maltego"]
+	path = Account/LinkedIn/nqntnqnqmb-maltego
+	url = https://github.com/megadose/nqntnqnqmb-maltego
+[submodule "Other/Maltego/nqntnqnqmb-maltego"]
+	path = Other/Maltego/nqntnqnqmb-maltego
+	url = https://github.com/megadose/nqntnqnqmb-maltego
+[submodule "Account/Vinted/keskivonfer"]
+	path = Account/Vinted/keskivonfer
+	url = https://github.com/megadose/keskivonfer
+[submodule "Other/Maltego/keskivonfer-maltego"]
+	path = Other/Maltego/keskivonfer-maltego
+	url = https://github.com/megadose/keskivonfer-maltego
+[submodule "Account/Vinted/keskivonfer-maltego"]
+	path = Account/Vinted/keskivonfer-maltego
+	url = https://github.com/megadose/keskivonfer-maltego
+[submodule "Nickname/cqfd"]
+	path = Nickname/cqfd
+	url = https://github.com/megadose/cqfd
+[submodule "Nickname/cqfd-maltego"]
+	path = Nickname/cqfd-maltego
+	url = https://github.com/megadose/cqfd-maltego
+[submodule "Other/Maltego/cqfd-maltego"]
+	path = Other/Maltego/cqfd-maltego
+	url = https://github.com/megadose/cqfd-maltego
+[submodule "Phone/phoneinfoga-maltego"]
+	path = Phone/phoneinfoga-maltego
+	url = https://github.com/megadose/phoneinfoga-maltego
+[submodule "Other/Maltego/phoneinfoga-maltego"]
+	path = Other/Maltego/phoneinfoga-maltego
+	url = https://github.com/megadose/phoneinfoga-maltego
+[submodule "Other/Search/OnionSearch"]
+	path = Other/Search/OnionSearch
+	url = https://github.com/megadose/OnionSearch
