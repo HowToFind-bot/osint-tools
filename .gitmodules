@@ -997,3 +997,9 @@
 [submodule "Email/GHunt"]
 	path = Email/GHunt
 	url = https://github.com/mxrch/GHunt
+[submodule "Other/Info/sinwindieOSINT"]
+	path = Other/Info/sinwindieOSINT
+	url = https://github.com/sinwindie/OSINT
+[submodule "File/Photo/deface"]
+	path = File/Photo/deface
+	url = https://github.com/ORB-HD/deface
