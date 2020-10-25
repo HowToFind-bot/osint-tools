@@ -1078,3 +1078,24 @@
 [submodule "Other/Search/OnionSearch"]
 	path = Other/Search/OnionSearch
 	url = https://github.com/megadose/OnionSearch
+[submodule "Account/LinkedIn/raven"]
+	path = Account/LinkedIn/raven
+	url = https://github.com/0x09AL/raven
+[submodule "Other/Automation/TIDoS-Framework"]
+	path = Other/Automation/TIDoS-Framework
+	url = https://github.com/0xInfection/TIDoS-Framework
+[submodule "IP/TIDoS-Framework"]
+	path = IP/TIDoS-Framework
+	url = https://github.com/0xInfection/TIDoS-Framework
+[submodule "Domain/TIDoS-Framework"]
+	path = Domain/TIDoS-Framework
+	url = https://github.com/0xInfection/TIDoS-Framework
+[submodule "Webpage/TIDoS-Framework"]
+	path = Webpage/TIDoS-Framework
+	url = https://github.com/0xInfection/TIDoS-Framework
+[submodule "Account/LinkedIn/TIDoS-Framework"]
+	path = Account/LinkedIn/TIDoS-Framework
+	url = https://github.com/0xInfection/TIDoS-Framework
+[submodule "Nickname/TIDoS-Framework"]
+	path = Nickname/TIDoS-Framework
+	url = https://github.com/0xInfection/TIDoS-Framework
