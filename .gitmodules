@@ -1132,3 +1132,42 @@
 [submodule "Other/BrowserPlugin/mitaka"]
 	path = Other/BrowserPlugin/mitaka
 	url = https://github.com/ninoseki/mitaka
+[submodule "File/Audio/deinvert"]
+	path = File/Audio/deinvert
+	url = https://github.com/windytan/deinvert
+[submodule "Voice/deinvert"]
+	path = Voice/deinvert
+	url = https://github.com/windytan/deinvert
+[submodule "Account/Telegram/TelegramOnlineSpy"]
+	path = Account/Telegram/TelegramOnlineSpy
+	url = https://github.com/Forichok/TelegramOnlineSpy
+[submodule "Phone/LB"]
+	path = Phone/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "Email/LB"]
+	path = Email/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "Fullname/LB"]
+	path = Fullname/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "IP/LB"]
+	path = IP/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "Account/Twitter/LB"]
+	path = Account/Twitter/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "Account/Instagram/LB"]
+	path = Account/Instagram/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "Account/LinkedIn/LB"]
+	path = Account/LinkedIn/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "Account/Facebook/LB"]
+	path = Account/Facebook/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "BSSID/LB"]
+	path = BSSID/LB
+	url = https://github.com/darkcoding12/LB
+[submodule "Hash/LB"]
+	path = Hash/LB
+	url = https://github.com/darkcoding12/LB
