@@ -1099,3 +1099,36 @@
 [submodule "Nickname/TIDoS-Framework"]
 	path = Nickname/TIDoS-Framework
 	url = https://github.com/0xInfection/TIDoS-Framework
+[submodule "Account/GitHub/GitDorker"]
+	path = Account/GitHub/GitDorker
+	url = https://github.com/obheda12/GitDorker
+[submodule "Other/Leaks/GitDorker"]
+	path = Other/Leaks/GitDorker
+	url = https://github.com/obheda12/GitDorker
+[submodule "Webpage/SingleFile"]
+	path = Webpage/SingleFile
+	url = https://github.com/gildas-lormeau/SingleFile
+[submodule "Other/BrowserPlugin/SingleFile"]
+	path = Other/BrowserPlugin/SingleFile
+	url = https://github.com/gildas-lormeau/SingleFile
+[submodule "Domain/phishing_catcher"]
+	path = Domain/phishing_catcher
+	url = https://github.com/x0rz/phishing_catcher
+[submodule "Domain/mitaka"]
+	path = Domain/mitaka
+	url = https://github.com/ninoseki/mitaka
+[submodule "Email/mitaka"]
+	path = Email/mitaka
+	url = https://github.com/ninoseki/mitaka
+[submodule "IP/mitaka"]
+	path = IP/mitaka
+	url = https://github.com/ninoseki/mitaka
+[submodule "Hash/mitaka"]
+	path = Hash/mitaka
+	url = https://github.com/ninoseki/mitaka
+[submodule "Cryptocurrency/mitaka"]
+	path = Cryptocurrency/mitaka
+	url = https://github.com/ninoseki/mitaka
+[submodule "Other/BrowserPlugin/mitaka"]
+	path = Other/BrowserPlugin/mitaka
+	url = https://github.com/ninoseki/mitaka
