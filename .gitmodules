@@ -1171,3 +1171,24 @@
 [submodule "Hash/LB"]
 	path = Hash/LB
 	url = https://github.com/darkcoding12/LB
+[submodule "Webpage/CarbonDate"]
+	path = Webpage/CarbonDate
+	url = https://github.com/oduwsdl/CarbonDate
+[submodule "Domain/CarbonDate"]
+	path = Domain/CarbonDate
+	url = https://github.com/oduwsdl/CarbonDate
+[submodule "Webpage/unfurl"]
+	path = Webpage/unfurl
+	url = https://github.com/obsidianforensics/unfurl
+[submodule "Phone/gideon"]
+	path = Phone/gideon
+	url = https://github.com/YouVBeenHacked/gideon
+[submodule "IP/gideon"]
+	path = IP/gideon
+	url = https://github.com/YouVBeenHacked/gideon
+[submodule "Nickname/gideon"]
+	path = Nickname/gideon
+	url = https://github.com/YouVBeenHacked/gideon
+[submodule "PlateNumber/gideon"]
+	path = PlateNumber/gideon
+	url = https://github.com/YouVBeenHacked/gideon

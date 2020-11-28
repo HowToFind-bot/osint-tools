@@ -1,6 +1,6 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 212 repos.
+Various OSINT tools and scripts, total 215 repos.
 
 ## Categories
 
@@ -38,6 +38,8 @@ Various OSINT tools and scripts, total 212 repos.
 - [Password](Password)
 
 - [Phone](Phone)
+
+- [PlateNumber](PlateNumber)
 
 - [Token](Token)
 
