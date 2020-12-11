@@ -1,6 +1,6 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 215 repos.
+Various OSINT tools and scripts, total 226 repos.
 
 ## Categories
 
@@ -34,7 +34,7 @@ Various OSINT tools and scripts, total 215 repos.
 
 - [Other](Other)
 
-  - [Automation](Other/Automation), [BrowserPlugin](Other/BrowserPlugin), [Clouds](Other/Clouds), [Identifier](Other/Identifier), [Info](Other/Info), [Leaks](Other/Leaks), [Login](Other/Login), [Maltego](Other/Maltego), [Phishing](Other/Phishing), [Search](Other/Search), [SourceCode](Other/SourceCode), [VMs](Other/VMs), [WiFi](Other/WiFi)
+  - [Automation](Other/Automation), [BrowserPlugin](Other/BrowserPlugin), [Clouds](Other/Clouds), [Dorks](Other/Dorks), [Identifier](Other/Identifier), [Info](Other/Info), [Leaks](Other/Leaks), [Login](Other/Login), [Maltego](Other/Maltego), [Phishing](Other/Phishing), [Search](Other/Search), [SourceCode](Other/SourceCode), [VMs](Other/VMs), [WiFi](Other/WiFi)
 - [Password](Password)
 
 - [Phone](Phone)

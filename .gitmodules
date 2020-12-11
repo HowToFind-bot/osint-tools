@@ -709,6 +709,9 @@
 [submodule "File/Photo/fawkes"]
 	path = File/Photo/fawkes
 	url = https://github.com/Shawn-Shan/fawkes
+[submodule "Other/Search/uDork"]
+	path = Other/Search/uDork
+	url = https://github.com/m3n0sd0n4ld/uDork
 [submodule "Domain/uDork"]
 	path = Domain/uDork
 	url = https://github.com/m3n0sd0n4ld/uDork
@@ -1192,3 +1195,45 @@
 [submodule "PlateNumber/gideon"]
 	path = PlateNumber/gideon
 	url = https://github.com/YouVBeenHacked/gideon
+[submodule "Email/mosint"]
+	path = Email/mosint
+	url = https://github.com/alpkeskin/mosint
+[submodule "Other/Phishing/PhishAPI"]
+	path = Other/Phishing/PhishAPI
+	url = https://github.com/curtbraz/PhishAPI
+[submodule "Other/Search/sitedorks"]
+	path = Other/Search/sitedorks
+	url = https://github.com/Zarcolio/sitedorks
+[submodule "Other/Dorks/sitedorks"]
+	path = Other/Dorks/sitedorks
+	url = https://github.com/Zarcolio/sitedorks
+[submodule "Other/Leaks/LeakLooker-X"]
+	path = Other/Leaks/LeakLooker-X
+	url = https://github.com/woj-ciech/LeakLooker-X
+[submodule "Other/SourceCode/LeakLooker-X"]
+	path = Other/SourceCode/LeakLooker-X
+	url = https://github.com/woj-ciech/LeakLooker-X
+[submodule "Other/BrowserPlugin/search-by-image"]
+	path = Other/BrowserPlugin/search-by-image
+	url = https://github.com/dessant/search-by-image
+[submodule "File/Photo/search-by-image"]
+	path = File/Photo/search-by-image
+	url = https://github.com/dessant/search-by-image
+[submodule "Other/Search/degoogle"]
+	path = Other/Search/degoogle
+	url = https://github.com/deepseagirl/degoogle
+[submodule "Phone/getcontact"]
+	path = Phone/getcontact
+	url = https://github.com/kovinevmv/getcontact
+[submodule "File/Photo/Depix"]
+	path = File/Photo/Depix
+	url = https://github.com/beurtschipper/Depix
+[submodule "Other/VMs/Argos"]
+	path = Other/VMs/Argos
+	url = https://github.com/SOsintOps/Argos
+[submodule "Other/VMs/OSINT_VM_Setup"]
+	path = Other/VMs/OSINT_VM_Setup
+	url = https://github.com/Skykn0t/OSINT_VM_Setup
+[submodule "Webpage/gallery-dl"]
+	path = Webpage/gallery-dl
+	url = https://github.com/mikf/gallery-dl
