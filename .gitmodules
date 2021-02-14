@@ -1003,6 +1003,9 @@
 [submodule "File/Photo/deface"]
 	path = File/Photo/deface
 	url = https://github.com/ORB-HD/deface
+[submodule "Face/deface"]
+	path = Face/deface
+	url = https://github.com/ORB-HD/deface
 [submodule "Email/holehe"]
 	path = Email/holehe
 	url = https://github.com/megadose/holehe
@@ -1237,3 +1240,81 @@
 [submodule "Webpage/gallery-dl"]
 	path = Webpage/gallery-dl
 	url = https://github.com/mikf/gallery-dl
+[submodule "Email/YaSeeker"]
+	path = Email/YaSeeker
+	url = https://github.com/HowToFind-bot/YaSeeker
+[submodule "Account/Yandex/YaSeeker"]
+	path = Account/Yandex/YaSeeker
+	url = https://github.com/HowToFind-bot/YaSeeker
+[submodule "Webpage/Asset_History"]
+	path = Webpage/Asset_History
+	url = https://github.com/redhuntlabs/BurpSuite-Asset_History
+[submodule "Other/BurpSuite/Asset_History"]
+	path = Other/BurpSuite/Asset_History
+	url = https://github.com/redhuntlabs/BurpSuite-Asset_History
+[submodule "Nickname/social-analyzer"]
+	path = Nickname/social-analyzer
+	url = https://github.com/qeeqbox/social-analyzer
+[submodule "Email/ProtOSINT"]
+	path = Email/ProtOSINT
+	url = https://github.com/pixelbubble/ProtOSINT
+[submodule "Account/Instagram/instamancer"]
+	path = Account/Instagram/instamancer
+	url = https://github.com/ScriptSmith/instamancer
+[submodule "Other/Info/dark-web-osint-tools"]
+	path = Other/Info/dark-web-osint-tools
+	url = https://github.com/apurvsinghgautam/dark-web-osint-tools
+[submodule "Phone/OSINT-SAN"]
+	path = Phone/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "IP/OSINT-SAN"]
+	path = IP/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "MAC/OSINT-SAN"]
+	path = MAC/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "Nickname/OSINT-SAN"]
+	path = Nickname/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "Domain/OSINT-SAN"]
+	path = Domain/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "Other/Phishing/OSINT-SAN"]
+	path = Other/Phishing/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "Email/OSINT-SAN"]
+	path = Email/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "Other/Info/OSINT-SAN"]
+	path = Other/Info/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "Webpage/OSINT-SAN"]
+	path = Webpage/OSINT-SAN
+	url = https://github.com/Bafomet666/OSINT-SAN
+[submodule "Other/Info/OSINT_Team_Links"]
+	path = Other/Info/OSINT_Team_Links
+	url = https://github.com/IVMachiavelli/OSINT_Team_Links
+[submodule "File/Photo/SpyScrap"]
+	path = File/Photo/SpyScrap
+	url = https://github.com/RuthGnz/SpyScrap
+[submodule "Face/SpyScrap"]
+	path = Face/SpyScrap
+	url = https://github.com/RuthGnz/SpyScrap
+[submodule "File/Photo/EagleEye"]
+	path = File/Photo/EagleEye
+	url = https://github.com/ThoughtfulDev/EagleEye
+[submodule "Face/EagleEye"]
+	path = Face/EagleEye
+	url = https://github.com/ThoughtfulDev/EagleEye
+[submodule "Other/VMs/OffenOsint"]
+	path = Other/VMs/OffenOsint
+	url = ᅠhttps://github.com/Double2Sky/OffenOsint
+[submodule "Other/Info/OSINT-Discord-resources"]
+	path = Other/Info/OSINT-Discord-resources
+	url = https://github.com/Dutchosintguy/OSINT-Discord-resources
+[submodule "Email/UhOh365"]
+	path = Email/UhOh365
+	url = https://github.com/Raikia/UhOh365
+[submodule "Password/Oblivion"]
+	path = Password/Oblivion
+	url = https://github.com/loseys/Oblivion
