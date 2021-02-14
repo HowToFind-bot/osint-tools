@@ -567,7 +567,7 @@
 	url = https://github.com/utkusen/jeopardize
 [submodule "Phone/phonia"]
 	path = Phone/phonia
-	url = https://github.com/entynetproject/phonia
+	url = https://github.com/coredamage/phonia
 [submodule "Domain/Sublist3r"]
 	path = Domain/Sublist3r
 	url = https://github.com/aboul3la/Sublist3r
@@ -828,7 +828,7 @@
 	url = https://github.com/saeeddhqan/Maryam
 [submodule "Phone/DeadTrap"]
 	path = Phone/DeadTrap
-	url = https://github.com/Chr0m0s0m3s/DeadTrap
+	url = https://github.com/mssalvatore/DeadTrap
 [submodule "Other/Maltego/MISP-maltego"]
 	path = Other/Maltego/MISP-maltego
 	url = https://github.com/MISP/MISP-maltego
@@ -867,7 +867,7 @@
 	url = https://github.com/visualbasic6/chatter
 [submodule "Nickname/MagmaOsint"]
 	path = Nickname/MagmaOsint
-	url = https://github.com/LimerBoy/MagmaOsint
+	url = https://github.com/m1n64/MagmaOsint
 [submodule "MAC/mac_vendor_lookup"]
 	path = MAC/mac_vendor_lookup
 	url = https://github.com/bauerj/mac_vendor_lookup
