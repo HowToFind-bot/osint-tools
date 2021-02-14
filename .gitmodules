@@ -1308,7 +1308,7 @@
 	url = https://github.com/ThoughtfulDev/EagleEye
 [submodule "Other/VMs/OffenOsint"]
 	path = Other/VMs/OffenOsint
-	url = ᅠhttps://github.com/Double2Sky/OffenOsint
+	url = https://github.com/Double2Sky/OffenOsint
 [submodule "Other/Info/OSINT-Discord-resources"]
 	path = Other/Info/OSINT-Discord-resources
 	url = https://github.com/Dutchosintguy/OSINT-Discord-resources
