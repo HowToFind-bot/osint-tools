@@ -1318,3 +1318,6 @@
 [submodule "Password/Oblivion"]
 	path = Password/Oblivion
 	url = https://github.com/loseys/Oblivion
+[submodule "Cryptocurrency/graphsense-dashboard"]
+	path = Cryptocurrency/graphsense-dashboard
+	url = https://github.com/graphsense/graphsense-dashboard
