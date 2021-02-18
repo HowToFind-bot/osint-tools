@@ -861,7 +861,7 @@
 	url = https://github.com/Ph055a/OSINT_Collection
 [submodule "Other/Info/DFW1N-OSINT"]
 	path = Other/Info/DFW1N-OSINT
-	url = https://github.com/0x90n/DFW1N-OSINT
+	url = https://github.com/DFW1N/DFW1N-OSINT
 [submodule "Account/Telegram/chatter"]
 	path = Account/Telegram/chatter
 	url = https://github.com/visualbasic6/chatter
@@ -1321,3 +1321,60 @@
 [submodule "Cryptocurrency/graphsense-dashboard"]
 	path = Cryptocurrency/graphsense-dashboard
 	url = https://github.com/graphsense/graphsense-dashboard
+[submodule "Other/Maltego/Heimdall"]
+	path = Other/Maltego/Heimdall
+	url = https://github.com/legrosyann1/Heimdall
+[submodule "Traffic/Heimdall"]
+	path = Traffic/Heimdall
+	url = https://github.com/legrosyann1/Heimdall
+[submodule "Domain/Heimdall"]
+	path = Domain/Heimdall
+	url = https://github.com/legrosyann1/Heimdall
+[submodule "IP/Heimdall"]
+	path = IP/Heimdall
+	url = https://github.com/legrosyann1/Heimdall
+[submodule "Email/Heimdall"]
+	path = Email/Heimdall
+	url = https://github.com/legrosyann1/Heimdall
+[submodule "Domain/CloudFlair"]
+	path = Domain/CloudFlair
+	url = https://github.com/christophetd/CloudFlair
+[submodule "Domain/findcdn"]
+	path = Domain/findcdn
+	url = https://github.com/cisagov/findcdn
+[submodule "Cryptocurrency/Maltego_Transform_Blockchain_DNS"]
+	path = Cryptocurrency/Maltego_Transform_Blockchain_DNS
+	url = https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS
+[submodule "Other/Maltego/Maltego_Transform_Blockchain_DNS"]
+	path = Other/Maltego/Maltego_Transform_Blockchain_DNS
+	url = https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS
+[submodule "Domain/Maltego_Transform_Blockchain_DNS"]
+	path = Domain/Maltego_Transform_Blockchain_DNS
+	url = https://github.com/Tomasuh/Maltego_Transform_Blockchain_DNS
+[submodule "Cryptocurrency/intelx-maltego"]
+	path = Cryptocurrency/intelx-maltego
+	url = https://github.com/zeropwn/intelx-maltego
+[submodule "Other/Maltego/intelx-maltego"]
+	path = Other/Maltego/intelx-maltego
+	url = https://github.com/zeropwn/intelx-maltego
+[submodule "Domain/intelx-maltego"]
+	path = Domain/intelx-maltego
+	url = https://github.com/zeropwn/intelx-maltego
+[submodule "MAC/intelx-maltego"]
+	path = MAC/intelx-maltego
+	url = https://github.com/zeropwn/intelx-maltego
+[submodule "Email/intelx-maltego"]
+	path = Email/intelx-maltego
+	url = https://github.com/zeropwn/intelx-maltego
+[submodule "IP/intelx-maltego"]
+	path = IP/intelx-maltego
+	url = https://github.com/zeropwn/intelx-maltego
+[submodule "CreditCard/intelx-maltego"]
+	path = CreditCard/intelx-maltego
+	url = https://github.com/zeropwn/intelx-maltego
+[submodule "Other/Maltego/MaltegoAliasToEmail"]
+	path = Other/Maltego/MaltegoAliasToEmail
+	url = https://github.com/Kacperek1337/MaltegoAliasToEmail
+[submodule "Email/MaltegoAliasToEmail"]
+	path = Email/MaltegoAliasToEmail
+	url = https://github.com/Kacperek1337/MaltegoAliasToEmail
