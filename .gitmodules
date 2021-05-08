@@ -553,6 +553,9 @@
 [submodule "Account/YouTube/youtube-geofind"]
 	path = Account/YouTube/youtube-geofind
 	url = https://github.com/mattwright324/youtube-geofind
+[submodule "Location/youtube-geofind"]
+	path = Location/youtube-geofind
+	url = https://github.com/mattwright324/youtube-geofind
 [submodule "Account/Twitter/TwitWork"]
 	path = Account/Twitter/TwitWork
 	url = https://github.com/atmoner/TwitWork
@@ -1321,21 +1324,6 @@
 [submodule "Cryptocurrency/graphsense-dashboard"]
 	path = Cryptocurrency/graphsense-dashboard
 	url = https://github.com/graphsense/graphsense-dashboard
-[submodule "Other/Maltego/Heimdall"]
-	path = Other/Maltego/Heimdall
-	url = https://github.com/legrosyann1/Heimdall
-[submodule "Traffic/Heimdall"]
-	path = Traffic/Heimdall
-	url = https://github.com/legrosyann1/Heimdall
-[submodule "Domain/Heimdall"]
-	path = Domain/Heimdall
-	url = https://github.com/legrosyann1/Heimdall
-[submodule "IP/Heimdall"]
-	path = IP/Heimdall
-	url = https://github.com/legrosyann1/Heimdall
-[submodule "Email/Heimdall"]
-	path = Email/Heimdall
-	url = https://github.com/legrosyann1/Heimdall
 [submodule "Domain/CloudFlair"]
 	path = Domain/CloudFlair
 	url = https://github.com/christophetd/CloudFlair
@@ -1378,3 +1366,57 @@
 [submodule "Email/MaltegoAliasToEmail"]
 	path = Email/MaltegoAliasToEmail
 	url = https://github.com/Kacperek1337/MaltegoAliasToEmail
+[submodule "Account/GitHub/cartography"]
+	path = Account/GitHub/cartography
+	url = https://github.com/lyft/cartography
+[submodule "Other/Clouds/cartography"]
+	path = Other/Clouds/cartography
+	url = https://github.com/lyft/cartography
+[submodule "Other/Phishing/Bigbro"]
+	path = Other/Phishing/Bigbro
+	url = https://github.com/Bafomet666/Bigbro
+[submodule "Account/Twitter/twitter-intelligence"]
+	path = Account/Twitter/twitter-intelligence
+	url = https://github.com/batuhaniskr/twitter-intelligence
+[submodule "Domain/Th3inspector"]
+	path = Domain/Th3inspector
+	url = https://github.com/Moham3dRiahi/Th3inspector
+[submodule "Phone/Th3inspector"]
+	path = Phone/Th3inspector
+	url = https://github.com/Moham3dRiahi/Th3inspector
+[submodule "IP/Th3inspector"]
+	path = IP/Th3inspector
+	url = https://github.com/Moham3dRiahi/Th3inspector
+[submodule "Domain/Th3inspector"]
+	path = Domain/Th3inspector
+	url = https://github.com/Moham3dRiahi/Th3inspector
+[submodule "Webpage/Th3inspector"]
+	path = Webpage/Th3inspector
+	url = https://github.com/Moham3dRiahi/Th3inspector
+[submodule "Email/Th3inspector"]
+	path = Email/Th3inspector
+	url = https://github.com/Moham3dRiahi/Th3inspector
+[submodule "CreditCard/Th3inspector"]
+	path = CreditCard/Th3inspector
+	url = https://github.com/Moham3dRiahi/Th3inspector
+[submodule "Domain/Magnifier"]
+	path = Domain/Magnifier
+	url = https://github.com/TheEyeOfCyber/Magnifier
+[submodule "IP/Magnifier"]
+	path = IP/Magnifier
+	url = https://github.com/TheEyeOfCyber/Magnifier
+[submodule "Domain/Magnifier"]
+	path = Domain/Magnifier
+	url = https://github.com/TheEyeOfCyber/Magnifier
+[submodule "Webpage/Magnifier"]
+	path = Webpage/Magnifier
+	url = https://github.com/TheEyeOfCyber/Magnifier
+[submodule "Email/Magnifier"]
+	path = Email/Magnifier
+	url = https://github.com/TheEyeOfCyber/Magnifier
+[submodule "Account/Facebook/fbi"]
+	path = Account/Facebook/fbi
+	url = https://github.com/xHak9x/fbi
+[submodule "Phone/ignorant"]
+	path = Phone/ignorant
+	url = https://github.com/megadose/ignorant

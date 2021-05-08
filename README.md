@@ -1,6 +1,6 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 247 repos.
+Various OSINT tools and scripts, total 253 repos.
 
 ## Categories
 
@@ -28,6 +28,8 @@ Various OSINT tools and scripts, total 247 repos.
 
 - [IP](IP)
 
+- [Location](Location)
+
 - [MAC](MAC)
 
 - [Network](Network)
@@ -46,8 +48,6 @@ Various OSINT tools and scripts, total 247 repos.
 - [Token](Token)
 
   - [AWS](Token/AWS), [Telegram](Token/Telegram)
-- [Traffic](Traffic)
-
 - [Voice](Voice)
 
 - [Webpage](Webpage)
