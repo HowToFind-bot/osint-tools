@@ -1,6 +1,6 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 253 repos.
+Various OSINT tools and scripts, total 255 repos.
 
 ## Categories
 
