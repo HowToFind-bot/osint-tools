@@ -1426,3 +1426,60 @@
 [submodule "Nickname/mailcat"]
 	path = Nickname/mailcat
 	url = https://github.com/sharsil/mailcat
+[submodule "Nickname/marple"]
+	path = Nickname/marple
+	url = https://github.com/soxoj/marple
+[submodule "Account/Instagram/instagram_private_api"]
+	path = Account/Instagram/instagram_private_api
+	url = https://github.com/ping/instagram_private_api
+[submodule "Account/Instagram/terra"]
+	path = Account/Instagram/terra
+	url = https://github.com/xadhrit/terra
+[submodule "Account/Twitter/terra"]
+	path = Account/Twitter/terra
+	url = https://github.com/xadhrit/terra
+[submodule "Account/Instagram/sterra"]
+	path = Account/Instagram/sterra
+	url = https://github.com/novitae/sterraxcyl
+[submodule "Other/Automation/Scrummage"]
+	path = Other/Automation/Scrummage
+	url = https://github.com/matamorphosis/Scrummage
+[submodule "Account/Instagram/SocialPwned"]
+	path = Account/Instagram/SocialPwned
+	url = https://github.com/MrTuxx/SocialPwned
+[submodule "Account/LinkedIn/SocialPwned"]
+	path = Account/LinkedIn/SocialPwned
+	url = https://github.com/MrTuxx/SocialPwned
+[submodule "Email/SocialPwned"]
+	path = Email/SocialPwned
+	url = https://github.com/MrTuxx/SocialPwned
+[submodule "Other/Leaks/SocialPwned"]
+	path = Other/Leaks/SocialPwned
+	url = https://github.com/MrTuxx/SocialPwned
+[submodule "Account/Telegram/telegram-nearby-map"]
+	path = Account/Telegram/telegram-nearby-map
+	url = https://github.com/tejado/telegram-nearby-map
+[submodule "Domain/waybackurls"]
+	path = Domain/waybackurls
+	url = https://github.com/tomnomnom/waybackurls
+[submodule "Other/Info/osint-cheatsheet"]
+	path = Other/Info/osint-cheatsheet
+	url = https://github.com/KernelPan1k/osint-cheatsheet
+[submodule "Account/Telegram/tosint"]
+	path = Account/Telegram/tosint
+	url = https://github.com/drego85/tosint
+[submodule "Other/Info/osint_stuff_tool_collection"]
+	path = Other/Info/osint_stuff_tool_collection
+	url = https://github.com/cipher387/osint_stuff_tool_collection
+[submodule "Webpage/youtube-comment-downloader"]
+	path = Webpage/youtube-comment-downloader
+	url = https://github.com/egbertbouman/youtube-comment-downloader
+[submodule "Webpage/chat-downloader"]
+	path = Webpage/chat-downloader
+	url = https://github.com/xenova/chat-downloader
+[submodule "Domain/o365chk"]
+	path = Domain/o365chk
+	url = https://github.com/nixintel/o365chk
+[submodule "Other/Dorks/Aline"]
+	path = Other/Dorks/Aline
+	url = https://github.com/ferreiraklet/Aline
