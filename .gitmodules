@@ -1483,3 +1483,15 @@
 [submodule "Other/Dorks/Aline"]
 	path = Other/Dorks/Aline
 	url = https://github.com/ferreiraklet/Aline
+[submodule "Token/Slack/SlackPirate"]
+	path = Token/Slack/SlackPirate
+	url = https://github.com/emtunc/SlackPirate
+[submodule "Fullname/yesitsme"]
+	path = Fullname/yesitsme
+	url = https://github.com/blackeko/yesitsme
+[submodule "Email/yesitsme"]
+	path = Email/yesitsme
+	url = https://github.com/blackeko/yesitsme
+[submodule "Phone/yesitsme"]
+	path = Phone/yesitsme
+	url = https://github.com/blackeko/yesitsme
