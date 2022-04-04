@@ -1,12 +1,18 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 270 repos.
+Various OSINT tools and scripts, total 282 repos.
+
+## How to use
+
+1. Choose type of known input data: open directory.
+2. Select some tool from the opened dir.
+3. Change repo commit from smth like `fc8e0b8377` to master to display last version.
 
 ## Categories
 
 - [Account](Account)
 
-  - [Azure](Account/Azure), [BitBucket](Account/BitBucket), [Facebook](Account/Facebook), [GitHub](Account/GitHub), [GitLab](Account/GitLab), [Gmail](Account/Gmail), [Instagram](Account/Instagram), [LinkedIn](Account/LinkedIn), [Microsoft](Account/Microsoft), [Odnoklassniki](Account/Odnoklassniki), [QQ](Account/QQ), [Snapchat](Account/Snapchat), [Spotify](Account/Spotify), [Telegram](Account/Telegram), [TikTok](Account/TikTok), [Twitter](Account/Twitter), [VK](Account/VK), [Vinted](Account/Vinted), [WhatsApp](Account/WhatsApp), [Yandex](Account/Yandex), [YouTube](Account/YouTube)
+  - [Azure](Account/Azure), [BitBucket](Account/BitBucket), [Facebook](Account/Facebook), [GitHub](Account/GitHub), [GitLab](Account/GitLab), [Github](Account/Github), [Gmail](Account/Gmail), [Instagram](Account/Instagram), [LinkedIn](Account/LinkedIn), [Microsoft](Account/Microsoft), [Odnoklassniki](Account/Odnoklassniki), [QQ](Account/QQ), [Snapchat](Account/Snapchat), [Spotify](Account/Spotify), [Telegram](Account/Telegram), [TikTok](Account/TikTok), [Twitter](Account/Twitter), [VK](Account/VK), [Vinted](Account/Vinted), [WhatsApp](Account/WhatsApp), [Yandex](Account/Yandex), [YouTube](Account/YouTube)
 - [BSSID](BSSID)
 
 - [CreditCard](CreditCard)
@@ -21,7 +27,7 @@ Various OSINT tools and scripts, total 270 repos.
 
 - [File](File)
 
-  - [Audio](File/Audio), [Document](File/Document), [Malware](File/Malware), [Photo](File/Photo)
+  - [Audio](File/Audio), [Document](File/Document), [Malware](File/Malware), [Photo](File/Photo), [Video](File/Video)
 - [Fullname](Fullname)
 
 - [Hash](Hash)
@@ -47,7 +53,9 @@ Various OSINT tools and scripts, total 270 repos.
 
 - [Token](Token)
 
-  - [AWS](Token/AWS), [Telegram](Token/Telegram)
+  - [AWS](Token/AWS), [Slack](Token/Slack), [Telegram](Token/Telegram)
+- [URL](URL)
+
 - [Voice](Voice)
 
 - [Webpage](Webpage)

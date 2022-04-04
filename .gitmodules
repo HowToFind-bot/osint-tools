@@ -1387,9 +1387,6 @@
 [submodule "IP/Th3inspector"]
 	path = IP/Th3inspector
 	url = https://github.com/Moham3dRiahi/Th3inspector
-[submodule "Domain/Th3inspector"]
-	path = Domain/Th3inspector
-	url = https://github.com/Moham3dRiahi/Th3inspector
 [submodule "Webpage/Th3inspector"]
 	path = Webpage/Th3inspector
 	url = https://github.com/Moham3dRiahi/Th3inspector
@@ -1404,9 +1401,6 @@
 	url = https://github.com/TheEyeOfCyber/Magnifier
 [submodule "IP/Magnifier"]
 	path = IP/Magnifier
-	url = https://github.com/TheEyeOfCyber/Magnifier
-[submodule "Domain/Magnifier"]
-	path = Domain/Magnifier
 	url = https://github.com/TheEyeOfCyber/Magnifier
 [submodule "Webpage/Magnifier"]
 	path = Webpage/Magnifier
@@ -1495,3 +1489,63 @@
 [submodule "Phone/yesitsme"]
 	path = Phone/yesitsme
 	url = https://github.com/blackeko/yesitsme
+[submodule "Account/Instagram/Tenai"]
+	path = Account/Instagram/Tenai
+	url = https://github.com/novitae/Tenai
+[submodule "File/Photo/autoexif"]
+	path = File/Photo/autoexif
+	url = https://github.com/SirCryptic/autoexif
+[submodule "File/Video/autoexif"]
+	path = File/Video/autoexif
+	url = https://github.com/SirCryptic/autoexif
+[submodule "Other/Info/OSINT-Map"]
+	path = Other/Info/OSINT-Map
+	url = https://github.com/Malfrats/OSINT-Map
+[submodule "Account/Instagram/infoooze"]
+	path = Account/Instagram/infoooze
+	url = https://github.com/7orp3do/infoooze
+[submodule "Email/infoooze"]
+	path = Email/infoooze
+	url = https://github.com/7orp3do/infoooze
+[submodule "IP/infoooze"]
+	path = IP/infoooze
+	url = https://github.com/7orp3do/infoooze
+[submodule "Webpage/infoooze"]
+	path = Webpage/infoooze
+	url = https://github.com/7orp3do/infoooze
+[submodule "File/Photo/infoooze"]
+	path = File/Photo/infoooze
+	url = https://github.com/7orp3do/infoooze
+[submodule "Nickname/infoooze"]
+	path = Nickname/infoooze
+	url = https://github.com/7orp3do/infoooze
+[submodule "Account/Github/infoooze"]
+	path = Account/Github/infoooze
+	url = https://github.com/7orp3do/infoooze
+[submodule "Other/Info/API-s-for-OSINT"]
+	path = Other/Info/API-s-for-OSINT
+	url = https://github.com/cipher387/API-s-for-OSINT
+[submodule "IP/apiosintDS"]
+	path = IP/apiosintDS
+	url = https://github.com/davidonzo/apiosintDS
+[submodule "Domain/apiosintDS"]
+	path = Domain/apiosintDS
+	url = https://github.com/davidonzo/apiosintDS
+[submodule "URL/apiosintDS"]
+	path = URL/apiosintDS
+	url = https://github.com/davidonzo/apiosintDS
+[submodule "Other/Maltego/maltego-transforms-list"]
+	path = Other/Maltego/maltego-transforms-list
+	url = https://github.com/cipher387/maltego-transforms-list
+[submodule "Domain/Dome"]
+	path = Domain/Dome
+	url = https://github.com/v4d1/Dome
+[submodule "Phone/collector"]
+	path = Phone/collector
+	url = https://github.com/galihap76/collector
+[submodule "Account/Instagram/collector"]
+	path = Account/Instagram/collector
+	url = https://github.com/galihap76/collector
+[submodule "Account/Telegram/TG-Parser"]
+	path = Account/Telegram/TG-Parser
+	url = https://github.com/Grigorich-JSDio/TG-Parser
