@@ -1,6 +1,6 @@
 # OSINT tools
 
-Various OSINT tools and scripts, total 282 repos.
+Various OSINT tools and scripts, total 290 repos.
 
 ## How to use
 
@@ -15,6 +15,8 @@ Various OSINT tools and scripts, total 282 repos.
   - [Azure](Account/Azure), [BitBucket](Account/BitBucket), [Facebook](Account/Facebook), [GitHub](Account/GitHub), [GitLab](Account/GitLab), [Github](Account/Github), [Gmail](Account/Gmail), [Instagram](Account/Instagram), [LinkedIn](Account/LinkedIn), [Microsoft](Account/Microsoft), [Odnoklassniki](Account/Odnoklassniki), [QQ](Account/QQ), [Snapchat](Account/Snapchat), [Spotify](Account/Spotify), [Telegram](Account/Telegram), [TikTok](Account/TikTok), [Twitter](Account/Twitter), [VK](Account/VK), [Vinted](Account/Vinted), [WhatsApp](Account/WhatsApp), [Yandex](Account/Yandex), [YouTube](Account/YouTube)
 - [BSSID](BSSID)
 
+- [CVE](CVE)
+
 - [CreditCard](CreditCard)
 
 - [Cryptocurrency](Cryptocurrency)
@@ -27,7 +29,7 @@ Various OSINT tools and scripts, total 282 repos.
 
 - [File](File)
 
-  - [Audio](File/Audio), [Document](File/Document), [Malware](File/Malware), [Photo](File/Photo), [Video](File/Video)
+  - [Audio](File/Audio), [Document](File/Document), [Image](File/Image), [Malware](File/Malware), [Photo](File/Photo), [Video](File/Video)
 - [Fullname](Fullname)
 
 - [Hash](Hash)
@@ -44,7 +46,7 @@ Various OSINT tools and scripts, total 282 repos.
 
 - [Other](Other)
 
-  - [Automation](Other/Automation), [BrowserPlugin](Other/BrowserPlugin), [BurpSuite](Other/BurpSuite), [Clouds](Other/Clouds), [Dorks](Other/Dorks), [Identifier](Other/Identifier), [Info](Other/Info), [Leaks](Other/Leaks), [Login](Other/Login), [Maltego](Other/Maltego), [Phishing](Other/Phishing), [Search](Other/Search), [SourceCode](Other/SourceCode), [VMs](Other/VMs), [WiFi](Other/WiFi)
+  - [Automation](Other/Automation), [BrowserPlugin](Other/BrowserPlugin), [BurpSuite](Other/BurpSuite), [Clouds](Other/Clouds), [Dorks](Other/Dorks), [Feeds](Other/Feeds), [Identifier](Other/Identifier), [Info](Other/Info), [Leaks](Other/Leaks), [Login](Other/Login), [Maltego](Other/Maltego), [Phishing](Other/Phishing), [Search](Other/Search), [SourceCode](Other/SourceCode), [VMs](Other/VMs), [WiFi](Other/WiFi)
 - [Password](Password)
 
 - [Phone](Phone)

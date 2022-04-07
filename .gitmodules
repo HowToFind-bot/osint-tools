@@ -976,9 +976,6 @@
 [submodule "Domain/WaybackPDF"]
 	path = Domain/WaybackPDF
 	url = https://github.com/Haax9/WaybackPDF
-[submodule "Other/Leaks/darkshot"]
-	path = Other/Leaks/darkshot
-	url = https://github.com/mxrch/darkshot
 [submodule "Other/Phishing/king-phisher"]
 	path = Other/Phishing/king-phisher
 	url = https://github.com/rsmusllp/king-phisher
@@ -1549,3 +1546,69 @@
 [submodule "Account/Telegram/TG-Parser"]
 	path = Account/Telegram/TG-Parser
 	url = https://github.com/Grigorich-JSDio/TG-Parser
+[submodule "Other/BrowserPlugin/Gotanda"]
+	path = Other/BrowserPlugin/Gotanda
+	url = https://github.com/HASH1da1/Gotanda
+[submodule "IP/Gotanda"]
+	path = IP/Gotanda
+	url = https://github.com/HASH1da1/Gotanda
+[submodule "Domain/Gotanda"]
+	path = Domain/Gotanda
+	url = https://github.com/HASH1da1/Gotanda
+[submodule "URL/Gotanda"]
+	path = URL/Gotanda
+	url = https://github.com/HASH1da1/Gotanda
+[submodule "CVE/Gotanda"]
+	path = CVE/Gotanda
+	url = https://github.com/HASH1da1/Gotanda
+[submodule "Nickname/Gotanda"]
+	path = Nickname/Gotanda
+	url = https://github.com/HASH1da1/Gotanda
+[submodule "Other/Leaks/shotlooter"]
+	path = Other/Leaks/shotlooter
+	url = https://github.com/utkusen/shotlooter
+[submodule "Other/Feeds/shotlooter"]
+	path = Other/Feeds/shotlooter
+	url = https://github.com/utkusen/shotlooter
+[submodule "File/Image/shotlooter"]
+	path = File/Image/shotlooter
+	url = https://github.com/utkusen/shotlooter
+[submodule "Other/Leaks/darkshot"]
+	path = Other/Leaks/darkshot
+	url = https://github.com/mxrch/darkshot
+[submodule "Other/Feeds/darkshot"]
+	path = Other/Feeds/darkshot
+	url = https://github.com/mxrch/darkshot
+[submodule "File/Image/darkshot"]
+	path = File/Image/darkshot
+	url = https://github.com/mxrch/darkshot
+[submodule "Email/knockknock"]
+	path = Email/knockknock
+	url = https://github.com/harleo/knockknock
+[submodule "Fullname/knockknock"]
+	path = Fullname/knockknock
+	url = https://github.com/harleo/knockknock
+[submodule "Domain/knockknock"]
+	path = Domain/knockknock
+	url = https://github.com/harleo/knockknock
+[submodule "Phone/PhoneInfoga"]
+	path = Phone/PhoneInfoga
+	url = https://github.com/sundowndev/PhoneInfoga
+[submodule "Account/Instagram/instagram-scraper"]
+	path = Account/Instagram/instagram-scraper
+	url = https://github.com/arc298/instagram-scraper
+[submodule "Nickname/instagram-scraper"]
+	path = Nickname/instagram-scraper
+	url = https://github.com/arc298/instagram-scraper
+[submodule "Account/Instagram/InstaLooter"]
+	path = Account/Instagram/InstaLooter
+	url = https://github.com/althonos/InstaLooter
+[submodule "Nickname/InstaLooter"]
+	path = Nickname/InstaLooter
+	url = https://github.com/althonos/InstaLooter
+[submodule "URL/EyeWitness"]
+	path = URL/EyeWitness
+	url = https://github.com/FortyNorthSecurity/EyeWitness
+[submodule "Domain/EmailHarvester"]
+	path = Domain/EmailHarvester
+	url = https://github.com/maldevel/EmailHarvester
