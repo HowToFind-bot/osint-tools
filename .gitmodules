@@ -1612,3 +1612,102 @@
 [submodule "Domain/EmailHarvester"]
 	path = Domain/EmailHarvester
 	url = https://github.com/maldevel/EmailHarvester
+[submodule "IP/hackertarget_maltego_transforms"]
+	path = IP/hackertarget_maltego_transforms
+	url = https://github.com/hackertarget/maltego_transforms
+[submodule "Domain/hackertarget_maltego_transforms"]
+	path = Domain/hackertarget_maltego_transforms
+	url = https://github.com/hackertarget/maltego_transforms
+[submodule "Other/Maltego/hackertarget_maltego_transforms"]
+	path = Other/Maltego/hackertarget_maltego_transforms
+	url = https://github.com/hackertarget/maltego_transforms
+[submodule "IP/maltego-nmap"]
+	path = IP/maltego-nmap
+	url = https://github.com/activeshadow/maltego-nmap
+[submodule "Other/Maltego/maltego-nmap"]
+	path = Other/Maltego/maltego-nmap
+	url = https://github.com/activeshadow/maltego-nmap
+[submodule "IP/ThreatCrowd-Maltego"]
+	path = IP/ThreatCrowd-Maltego
+	url = https://github.com/AlienVault-OTX/ThreatCrowd-Maltego
+[submodule "Domain/ThreatCrowd-Maltego"]
+	path = Domain/ThreatCrowd-Maltego
+	url = https://github.com/AlienVault-OTX/ThreatCrowd-Maltego
+[submodule "Email/ThreatCrowd-Maltego"]
+	path = Email/ThreatCrowd-Maltego
+	url = https://github.com/AlienVault-OTX/ThreatCrowd-Maltego
+[submodule "Other/Maltego/ThreatCrowd-Maltego"]
+	path = Other/Maltego/ThreatCrowd-Maltego
+	url = https://github.com/AlienVault-OTX/ThreatCrowd-Maltego
+[submodule "IP/opencti-maltego"]
+	path = IP/opencti-maltego
+	url = https://github.com/amr-cossi/opencti-maltego
+[submodule "Domain/opencti-maltego"]
+	path = Domain/opencti-maltego
+	url = https://github.com/amr-cossi/opencti-maltego
+[submodule "Email/opencti-maltego"]
+	path = Email/opencti-maltego
+	url = https://github.com/amr-cossi/opencti-maltego
+[submodule "Other/Maltego/opencti-maltego"]
+	path = Other/Maltego/opencti-maltego
+	url = https://github.com/amr-cossi/opencti-maltego
+[submodule "Domain/opendns_transform"]
+	path = Domain/opendns_transform
+	url = https://github.com/anthonykasza/opendns_transform
+[submodule "Email/opendns_transform"]
+	path = Email/opendns_transform
+	url = https://github.com/anthonykasza/opendns_transform
+[submodule "Other/Maltego/opendns_transform"]
+	path = Other/Maltego/opendns_transform
+	url = https://github.com/anthonykasza/opendns_transform
+[submodule "Fullname/recon-ng-maltego"]
+	path = Fullname/recon-ng-maltego
+	url = https://github.com/bostonlink/recon-ng-maltego
+[submodule "Domain/recon-ng-maltego"]
+	path = Domain/recon-ng-maltego
+	url = https://github.com/bostonlink/recon-ng-maltego
+[submodule "Account/Twitter/recon-ng-maltego"]
+	path = Account/Twitter/recon-ng-maltego
+	url = https://github.com/bostonlink/recon-ng-maltego
+[submodule "Nickname/recon-ng-maltego"]
+	path = Nickname/recon-ng-maltego
+	url = https://github.com/bostonlink/recon-ng-maltego
+[submodule "IP/recon-ng-maltego"]
+	path = IP/recon-ng-maltego
+	url = https://github.com/bostonlink/recon-ng-maltego
+[submodule "Other/Maltego/recon-ng-maltego"]
+	path = Other/Maltego/recon-ng-maltego
+	url = https://github.com/bostonlink/recon-ng-maltego
+[submodule "URL/wayback-maltego"]
+	path = URL/wayback-maltego
+	url = https://github.com/brianwarehime/wayback-maltego
+[submodule "Other/Maltego/wayback-maltego"]
+	path = Other/Maltego/wayback-maltego
+	url = https://github.com/brianwarehime/wayback-maltego
+[submodule "Other/Maltego/Maltego-Abusix"]
+	path = Other/Maltego/Maltego-Abusix
+	url = https://github.com/cmlh/Maltego-Abusix
+[submodule "Other/Maltego/Maltego-BreachAlarm"]
+	path = Other/Maltego/Maltego-BreachAlarm
+	url = https://github.com/cmlh/Maltego-BreachAlarm
+[submodule "Other/Maltego/Maltego-Clearbit"]
+	path = Other/Maltego/Maltego-Clearbit
+	url = https://github.com/cmlh/Maltego-Clearbit
+[submodule "Account/Facebook/Maltego-Facebook"]
+	path = Account/Facebook/Maltego-Facebook
+	url = https://github.com/cmlh/Maltego-Facebook
+[submodule "Other/Maltego/Maltego-Facebook"]
+	path = Other/Maltego/Maltego-Facebook
+	url = https://github.com/cmlh/Maltego-Facebook
+[submodule "Other/Maltego/Maltego-FullContact"]
+	path = Other/Maltego/Maltego-FullContact
+	url = https://github.com/cmlh/Maltego-FullContact
+[submodule "Other/Maltego/Maltego-GitHub"]
+	path = Other/Maltego/Maltego-GitHub
+	url = https://github.com/cmlh/Maltego-GitHub
+[submodule "Email/Maltego-Gravatar"]
+	path = Email/Maltego-Gravatar
+	url = https://github.com/cmlh/Maltego-Gravatar
+[submodule "Other/Maltego/Maltego-Gravatar"]
+	path = Other/Maltego/Maltego-Gravatar
+	url = https://github.com/cmlh/Maltego-Gravatar
