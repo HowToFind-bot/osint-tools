@@ -1711,3 +1711,27 @@
 [submodule "Other/Maltego/Maltego-Gravatar"]
 	path = Other/Maltego/Maltego-Gravatar
 	url = https://github.com/cmlh/Maltego-Gravatar
+[submodule "Email/Maltego-haveibeenpwned"]
+	path = Email/Maltego-haveibeenpwned
+	url = https://github.com/cmlh/Maltego-haveibeenpwned
+[submodule "Other/Maltego/Maltego-haveibeenpwned"]
+	path = Other/Maltego/Maltego-haveibeenpwned
+	url = https://github.com/cmlh/Maltego-haveibeenpwned
+[submodule "Domain/Maltego-Hostio"]
+	path = Domain/Maltego-Hostio
+	url = https://github.com/cmlh/Maltego-Host.io
+[submodule "Other/Maltego/Maltego-Hostio"]
+	path = Other/Maltego/Maltego-Hostio
+	url = https://github.com/cmlh/Maltego-Host.io
+[submodule "IP/greynoise-maltego"]
+	path = IP/greynoise-maltego
+	url = https://github.com/GreyNoise-Intelligence/greynoise-maltego
+[submodule "Domain/greynoise-maltego"]
+	path = Domain/greynoise-maltego
+	url = https://github.com/GreyNoise-Intelligence/greynoise-maltego
+[submodule "Other/Maltego/greynoise-maltego"]
+	path = Other/Maltego/greynoise-maltego
+	url = https://github.com/GreyNoise-Intelligence/greynoise-maltego
+[submodule "Other/Maltego/hunchly-maltego"]
+	path = Other/Maltego/hunchly-maltego
+	url = https://github.com/hunchly/hunchly-maltego
