@@ -1735,3 +1735,6 @@
 [submodule "Other/Maltego/hunchly-maltego"]
 	path = Other/Maltego/hunchly-maltego
 	url = https://github.com/hunchly/hunchly-maltego
+[submodule "Other/VMs/tlosint-live"]
+	path = Other/VMs/tlosint-live
+	url = https://github.com/tracelabs/tlosint-live
